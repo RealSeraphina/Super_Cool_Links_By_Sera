@@ -24,6 +24,8 @@ A collection of awesome links I've compiled.
 - [Darknet Diaries – True stories from the dark side of the Internet.](https://darknetdiaries.com)
 - [Krebs on Security](https://krebsonsecurity.com/)
 - [BleepingComputer - Tech News](https://www.bleepingcomputer.com/)
+- [GNU - Free Software Philosophy](https://www.gnu.org/philosophy/philosophy.html)
+
 
 
 ## CTF/Extra Practice
@@ -51,3 +53,12 @@ A collection of awesome links I've compiled.
 - [Operating System Vs. Kernel?](https://stackoverflow.com/questions/3315730/what-is-the-difference-between-the-operating-system-and-the-kernel)
 - [What is CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
 - [YUM vs. APT: What's the Difference? | phoenixNAP KB](https://phoenixnap.com/kb/yum-vs-apt)
+
+# Text Editing
+- [A Great Vim Cheat Sheet](https://vimsheet.com/)
+- [Vim cheatsheet](https://devhints.io/vim)
+- [Cheatsheet for GNU nano](https://www.nano-editor.org/dist/latest/cheatsheet.html)
+- [How to Use Nano Text Editor in Linux [With Cheat Sheet]](https://itsfoss.com/nano-editor-guide/)
+- [GNU Nano Cheatsheet](https://www.cheatsheet.wtf/Nano/)
+- [Learn VIM while playing a game - VIM Adventures](https://vim-adventures.com/)
+- 
