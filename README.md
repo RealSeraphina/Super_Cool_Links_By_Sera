@@ -3,6 +3,7 @@ A collection of awesome links I've compiled.
 
 # Take a Break (Sort Of)
 ### Youtube
+- [HACKING GOOGLE Series](https://www.youtube.com/watch?v=5nEyjYn9_LI&list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
 - [Jim Browning - Getting Back At Scammers](https://www.youtube.com/c/JimBrowning)
 - [Hak5 - Technology/Security/Fun](https://www.youtube.com/@hak5)
 - [Linus Tech Tips - Get your tech tips](https://www.youtube.com/@LinusTechTips)
@@ -25,6 +26,8 @@ A collection of awesome links I've compiled.
 - [Krebs on Security](https://krebsonsecurity.com/)
 - [BleepingComputer - Tech News](https://www.bleepingcomputer.com/)
 - [GNU - Free Software Philosophy](https://www.gnu.org/philosophy/philosophy.html)
+- [Computer Fraud and Abuse Act](https://www.congress.gov/bill/99th-congress/house-bill/4718/text)
+- [Security Bsides - Mini Confrences](http://www.securitybsides.com/)
 
 
 
@@ -114,3 +117,31 @@ A collection of awesome links I've compiled.
 - [DNS Poisoning (DNS Spoofing): Definition, Technique &amp; Defense | Okta](https://www.okta.com/identity-101/dns-poisoning/)
 - [DNS Record Types](https://www.cloudflare.com/learning/dns/dns-records/)
 - [Network Time Protocol (NTP) - Computerphile](https://www.youtube.com/watch?v=BAo5C2qbLq8)
+
+# Forensics
+## Useful Software
+- [Autopsy](https://www.autopsy.com/)
+- [Sleuth Kit](https://www.sleuthkit.org/)
+- [Sleuth Kit Wiki](http://wiki.sleuthkit.org/index.php?title=The_Sleuth_Kit)
+- [Sleuth Kit Manual](http://www.sleuthkit.org/sleuthkit/man/)
+- [Volatility - Memory Forencsics Tool](https://www.volatilityfoundation.org/)
+- [Eric Zimmerman’s Tools](https://ericzimmerman.github.io/#!index.md)
+- [Yara - The pattern matching swiss knife for malware researchers (and everyone else)](https://virustotal.github.io/yara/)
+- [Maxim Suhanov’s YARP (CLI)](https://github.com/msuhanov/yarp)
+- [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html)
+- [Notepad++ - My Favorite Windows Based Text Editor](https://notepad-plus-plus.org/)
+- [Binary Ninja - My Hex Editors of Choice](https://binary.ninja/demo/)  
+- [XXD - CLI Hex Editor](https://linux.die.net/man/1/xxd)
+### Cheat Sheets
+- [SANS Ultimate List of Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+### How to write a Digital Forensics Report
+- [Writing DFIR Reports a Primer](https://www.forensicfocus.com/articles/writing-dfir-reports-a-primer/)
+- [Intro to Report Writing for Digital Forensics](https://www.sans.org/blog/intro-to-report-writing-for-digital-forensics/)
+- [Best Practices for Writing a Digital Forensics Report](https://www.paliscope.com/2021/07/12/best-practices-for-writing-a-digital-forensics-report/)
+### Further Readings
+- The Art of Memory Forensics, 1st Ed. by Ligh et al. ISBN: 978-1118825099.
+- Reference: Digital Evidence and Computer Crime: Forensic Science, Computers and the Internet, 3rd Ed. by Casey. ISBN: 978-0123742681.
+- File System Forensic Analysis, 2nd th Ed. by Carrier. ISBN: 978-0321268174.
+- Windows Registry Forensics, 2nd Ed. by Carvey. ISBN: 978-0128032916.
+- Windows Forensic Analysis Toolkit, 4th Ed. by Carvey. ISBN: 978-0124171572.
+
