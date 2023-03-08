@@ -1,7 +1,7 @@
 # Super_Cool_Links_By_Sera
 A collection of awesome links I've compiled. 
 
-## Take a break (sort of)
+## Take a Break (Sort Of)
 ### Youtube
 - [Jim Browning - Getting Back At Scammers](https://www.youtube.com/c/JimBrowning)
 - [Hak5 - Technology/Security/Fun](https://www.youtube.com/@hak5)
@@ -24,3 +24,14 @@ A collection of awesome links I've compiled.
 - [Darknet Diaries – True stories from the dark side of the Internet.](https://darknetdiaries.com)
 - [Krebs on Security](https://krebsonsecurity.com/)
 - [BleepingComputer - Tech News](https://www.bleepingcomputer.com/)
+
+
+## CTF/Extra Practice
+- [Bandit Over The Wire](https://overthewire.org/)
+- [Hacking Training For The Best](https://www.hackthebox.com/)
+- [TryHackMe | Cyber Security Training](https://tryhackme.com/)
+- [CTF Time](https://ctftime.org/ctfs)
+- [picoCTF - CMU Cybersecurity Competition](https://picoctf.org/)
+- [Cipher Tech Women & Minorities Online Challenge | Cyber Skyline](https://cyberskyline.com/events/cipher-tech-women-minorities-online-challenge)
+- [Python Challenges](https://edabit.com/challenges)
+- [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive)
