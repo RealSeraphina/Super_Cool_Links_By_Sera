@@ -29,7 +29,23 @@ A collection of awesome links I've compiled.
 - [Computer Fraud and Abuse Act](https://www.congress.gov/bill/99th-congress/house-bill/4718/text)
 - [Security Bsides - Mini Confrences](http://www.securitybsides.com/)
 
+# Cyber Range 
+## Distros
+### Linux
+- [Kali - A Debian based distro with a bunch of Red Team tools](https://www.kali.org/)
+- [Parrot OS - A comprehensive Red Team and Blue Team distro](https://www.parrotsec.org/)
+- [Ubuntu - A general purpose Debian based distro](https://ubuntu.com/)
+- [Linux Mint - A branch of Ubuntu with a different desktop environment](https://linuxmint.com/)
+- [Security Onion - A Blue Team focused distro](https://securityonionsolutions.com/)
+### Windows
+- [Windows 11 Developer VM](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
+## Virtual Machine Hypervisors
+- [Virtual Box - You won't hear me say much nice about Oracle, but Virtual Box is a nice hypervisor](https://www.virtualbox.org/)
+- [VM Ware - another great hypervisor](https://www.vmware.com/)
+- [Windows Subsystem for Linux (WSL) This is a really cool hypervisor built into modern Windows](https://learn.microsoft.com/en-us/windows/wsl/install) 
 
+# Random
+- [Some cybersecurity terms to be familar with!](https://www.esecurityplanet.com/networks/types-of-network-security/#ztna)
 
 # CTF/Extra Practice
 - [Bandit Over The Wire](https://overthewire.org/)
