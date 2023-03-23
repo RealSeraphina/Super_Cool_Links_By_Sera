@@ -28,6 +28,7 @@ A collection of awesome links I've compiled.
 - [GNU - Free Software Philosophy](https://www.gnu.org/philosophy/philosophy.html)
 - [Computer Fraud and Abuse Act](https://www.congress.gov/bill/99th-congress/house-bill/4718/text)
 - [Security Bsides - Mini Confrences](http://www.securitybsides.com/)
+- [Wigle - a map of discovered wifi networks](https://wigle.net/)
 
 # Cyber Range 
 ## Distros
