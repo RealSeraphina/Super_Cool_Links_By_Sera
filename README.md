@@ -59,6 +59,7 @@ A collection of awesome links I've compiled.
 - [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive)
 
 # Linux
+- [Linux File Sytem Structure](https://www.makeuseof.com/linux-directory-structure-explained/)
 - [The 50 Most Popular Linux &amp; Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
 - [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw)
 - [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
