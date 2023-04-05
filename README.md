@@ -110,6 +110,7 @@ A collection of awesome links I've compiled.
 - [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 - [Bash Scripting Tutorial for Beginners: What It Is, How to Write One, and Script Examples](https://www.hostinger.com/tutorials/bash-scripting-tutorial)
 - [Bash Scripting - Introduction to Bash and Bash Scripting - GeeksforGeeks](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/?id=discuss)
+- [if/else/elif logic](https://www.tutorialkart.com/bash-shell-scripting/bash-else-if/)
 
 # Python 🐍
 ### Websites
