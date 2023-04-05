@@ -61,7 +61,7 @@ A collection of awesome links I've compiled.
 - [Python Challenges](https://edabit.com/challenges)
 - [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive)
 
-# Linux
+# Linux 🐧
 - [Linux File Sytem Structure](https://www.makeuseof.com/linux-directory-structure-explained/)
 - [The 50 Most Popular Linux &amp; Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
 - [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw)
@@ -78,7 +78,7 @@ A collection of awesome links I've compiled.
 - [What is CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
 - [YUM vs. APT: What's the Difference? | phoenixNAP KB](https://phoenixnap.com/kb/yum-vs-apt)
 
-# Text Editing
+# Text Editing 📝
 - [A Great Vim Cheat Sheet](https://vimsheet.com/)
 - [Vim cheatsheet](https://devhints.io/vim)
 - [Cheatsheet for GNU nano](https://www.nano-editor.org/dist/latest/cheatsheet.html)
@@ -86,7 +86,7 @@ A collection of awesome links I've compiled.
 - [GNU Nano Cheatsheet](https://www.cheatsheet.wtf/Nano/)
 - [Learn VIM while playing a game - VIM Adventures](https://vim-adventures.com/)
 
-# File Compression
+# File Compression 🤐
 - [tar Cheat Sheet](https://cheatography.com/blackw61/cheat-sheets/tar/)
 - [Linux Tar Commands Cheatsheet](https://neverendingsecurity.wordpress.com/2015/04/13/linux-tar-commands-cheatsheet/)
 - [Cheat Sheet - Archives and Compression - Seb's IT blog](https://megamorf.gitlab.io/cheat-sheets/archives-and-compression/)
@@ -99,13 +99,13 @@ A collection of awesome links I've compiled.
 - [What is SUID, SGID and Sticky bit](https://www.thegeekdiary.com/what-is-suid-sgid-and-sticky-bit/)
 - [Linux permissions: SUID, SGID, and sticky bit](https://www.redhat.com/sysadmin/suid-sgid-sticky-bit)
 
-# SSH
+# SSH 
 - [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
 - [The SCP Command](https://linuxhint.com/scp-command/)
 - [What is an SSH Key? An Overview of SSH Keys](https://www.ssh.com/academy/ssh-keys)
 - [How To Use SSH to Connect to a Remote Server  | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server)
 
-# Bash Scripting
+# Bash Scripting 🧑‍💻
 - [Environmental Variables - Linux has several variables that hold some cool information!](https://www.cherryservers.com/blog/how-to-set-list-and-manage-linux-environment-variables)
 - [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 - [Bash Scripting Tutorial for Beginners: What It Is, How to Write One, and Script Examples](https://www.hostinger.com/tutorials/bash-scripting-tutorial)
@@ -142,7 +142,7 @@ A collection of awesome links I've compiled.
 - [DNS Record Types](https://www.cloudflare.com/learning/dns/dns-records/)
 - [Network Time Protocol (NTP) - Computerphile](https://www.youtube.com/watch?v=BAo5C2qbLq8)
 
-# Forensics
+# Forensics 🔍
 ### Useful Software
 - [Autopsy](https://www.autopsy.com/)
 - [Sleuth Kit](https://www.sleuthkit.org/)
