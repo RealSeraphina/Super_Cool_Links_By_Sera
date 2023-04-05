@@ -47,6 +47,9 @@ A collection of awesome links I've compiled.
 
 # Random
 - [Some cybersecurity terms to be familar with!](https://www.esecurityplanet.com/networks/types-of-network-security/#ztna)
+## Tools/Utilities
+- [Notepad++ - Sera's favorite text editor avaliable for Windows!](https://notepad-plus-plus.org/)
+- [Sublime Text - a minimilistic GUI based text editor.](https://www.sublimetext.com/)
 
 # CTF/Extra Practice
 - [Bandit Over The Wire](https://overthewire.org/)
