@@ -112,6 +112,7 @@ A collection of awesome links I've compiled.
 - [Bash Scripting - Introduction to Bash and Bash Scripting - GeeksforGeeks](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/?id=discuss)
 - [if/else/elif logic](https://www.tutorialkart.com/bash-shell-scripting/bash-else-if/)
 - [Bash Scripting Cheatsheet!](https://devhints.io/bash)
+- [For Loops](https://www.cyberciti.biz/faq/bash-for-loop/)
 
 # Python 🐍
 ### Websites
