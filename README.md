@@ -116,7 +116,7 @@ A collection of awesome links I've compiled.
 - [For Loops](https://www.cyberciti.biz/faq/bash-for-loop/)
 
 
-#Networking
+# Networking
 -[Smart Draw - Create Network Diagrams](https://www.smartdraw.com/)
 
 # Python 🐍
