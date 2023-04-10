@@ -72,6 +72,7 @@ A collection of awesome links I've compiled.
 - [AWK Is Still Very Useful | Brian Kernighan and Lex Fridman](https://www.youtube.com/watch?v=W5kr7X7EG4o)
 - [Case Sensitivity Windows Vs. Linux](https://learn.microsoft.com/en-us/windows/wsl/case-sensitivity)
 - [Cron Jobs - OSTechNix](https://www.ostechnix.com/a-beginners-guide-to-cron-jobs/)
+- [Crontab Guru - a crontab calculator](https://crontab.guru/)
 - [Explain Shell- match command-line arguments to their help text](https://explainshell.com/)
 - [/bin and /sbin what they have to do with PATH](http://www.linfo.org/path_env_var.html)
 - [Operating System Vs. Kernel?](https://stackoverflow.com/questions/3315730/what-is-the-difference-between-the-operating-system-and-the-kernel)
