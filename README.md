@@ -117,7 +117,7 @@ A collection of awesome links I've compiled.
 
 
 # Networking
--[Smart Draw - Create Network Diagrams](https://www.smartdraw.com/)
+- [Smart Draw - Create Network Diagrams](https://www.smartdraw.com/)
 
 # Python 🐍
 ### Websites
