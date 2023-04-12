@@ -125,6 +125,10 @@ A collection of awesome links I've compiled.
 # Networking
 - [Smart Draw - Create Network Diagrams](https://www.smartdraw.com/)
 - [OSI Model Explained!](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+- [TCP 3-way Handshake](https://developer.mozilla.org/en-US/docs/Glossary/TCP_handshake)
+- [SYN Flood - A TCP DDOS Attack!](https://www.cloudflare.com/learning/ddos/syn-flood-ddos-attack/)
+- [TCP Vs UDP](https://www.diffen.com/difference/TCP_vs_UDP)
+- [DNS Poisining - A Cool Attack that Exploits DNS Requests](https://www.okta.com/identity-101/dns-poisoning/)
 
 # Python 🐍
 ### Websites
