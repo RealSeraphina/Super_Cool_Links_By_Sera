@@ -32,7 +32,7 @@ A collection of awesome links I've compiled.
 ### Security Confrences
 - [Security Bsides - Mini Confrences](http://www.securitybsides.com/)
 - [DEF CON - Possibly the most notorious and popular security confrence](https://defcon.org/)
-- [Day od Shecurity - Women in Security](https://www.dayofshecurity.com/)
+- [Day of Shecurity - Women in Security](https://www.dayofshecurity.com/)
 
 # Cyber Range 
 ## Distros
