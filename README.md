@@ -134,7 +134,11 @@ A collection of awesome links I've compiled.
 - [What is a Port?](https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/)
 - [What is a Subnet?](https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/)
 - [Subnetting Cheat Sheet](https://ipcisco.com/wp-content/uploads/Cheat-Sheets/subnetting-cheat-sheet.pdf) 
-- 
+# Wireshark 🦈
+- [Wireshark's Official Introduction Doc](https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html)
+- [Another Introduction to Wireshark](https://www.redhat.com/sysadmin/introduction-wireshark)
+- [Cheat Sheet!](https://www.stationx.net/wireshark-cheat-sheet/)
+
 # Python 🐍
 ### Websites
 - [Python Documentation](https://docs.python.org/3)
