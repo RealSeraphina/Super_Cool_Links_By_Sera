@@ -42,6 +42,7 @@ A collection of awesome links I've compiled.
 - [Ubuntu - A general purpose Debian based distro](https://ubuntu.com/)
 - [Linux Mint - A branch of Ubuntu with a different desktop environment](https://linuxmint.com/)
 - [Security Onion - A Blue Team focused distro](https://securityonionsolutions.com/)
+- [Debian - The Distro many others are based on including Ubuntu, Linux Mint, and Kali](https://www.debian.org/)
 ### Windows
 - [Windows 11 Developer VM](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
 ## Virtual Machine Hypervisors
