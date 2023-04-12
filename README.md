@@ -60,6 +60,7 @@ A collection of awesome links I've compiled.
 - [Cipher Tech Women & Minorities Online Challenge | Cyber Skyline](https://cyberskyline.com/events/cipher-tech-women-minorities-online-challenge)
 - [Python Challenges](https://edabit.com/challenges)
 - [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive)
+- [Cyber Defenders - Blue Team CTF Challenges](https://cyberdefenders.org/blueteam-ctf-challenges/)
 
 # Linux 🐧
 - [Linux File Sytem Structure](https://www.makeuseof.com/linux-directory-structure-explained/)
