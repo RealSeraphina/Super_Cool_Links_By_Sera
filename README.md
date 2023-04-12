@@ -79,6 +79,7 @@ A collection of awesome links I've compiled.
 - [Case Sensitivity Windows Vs. Linux](https://learn.microsoft.com/en-us/windows/wsl/case-sensitivity)
 - [Cron Jobs - OSTechNix](https://www.ostechnix.com/a-beginners-guide-to-cron-jobs/)
 - [Crontab Guru - a crontab calculator](https://crontab.guru/)
+- [Cron Job: A Comprehensive Guide for Beginners 2023](https://www.hostinger.com/tutorials/cron-job)
 - [Explain Shell- match command-line arguments to their help text](https://explainshell.com/)
 - [/bin and /sbin what they have to do with PATH](http://www.linfo.org/path_env_var.html)
 - [Operating System Vs. Kernel?](https://stackoverflow.com/questions/3315730/what-is-the-difference-between-the-operating-system-and-the-kernel)
@@ -129,7 +130,11 @@ A collection of awesome links I've compiled.
 - [SYN Flood - A TCP DDOS Attack!](https://www.cloudflare.com/learning/ddos/syn-flood-ddos-attack/)
 - [TCP Vs UDP](https://www.diffen.com/difference/TCP_vs_UDP)
 - [DNS Poisining - A Cool Attack that Exploits DNS Requests](https://www.okta.com/identity-101/dns-poisoning/)
-
+- [Private IP Ranges](https://www.ibm.com/docs/en/networkmanager/4.2.0?topic=translation-private-address-ranges) 
+- [What is a Port?](https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/)
+- [What is a Subnet?](https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/)
+- [Subnetting Cheat Sheet](https://ipcisco.com/wp-content/uploads/Cheat-Sheets/subnetting-cheat-sheet.pdf) 
+- 
 # Python 🐍
 ### Websites
 - [Python Documentation](https://docs.python.org/3)
@@ -154,8 +159,7 @@ A collection of awesome links I've compiled.
 - [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
 - [The Problem with Time & Timezones - Computerphile](https://youtu.be/-5wpm-gesOY)
 
-# Web and Networking
-- [DNS Poisoning (DNS Spoofing): Definition, Technique &amp; Defense | Okta](https://www.okta.com/identity-101/dns-poisoning/)
+# Web and Protocols
 - [DNS Record Types](https://www.cloudflare.com/learning/dns/dns-records/)
 - [Network Time Protocol (NTP) - Computerphile](https://www.youtube.com/watch?v=BAo5C2qbLq8)
 
