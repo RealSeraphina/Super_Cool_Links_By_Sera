@@ -27,8 +27,12 @@ A collection of awesome links I've compiled.
 - [BleepingComputer - Tech News](https://www.bleepingcomputer.com/)
 - [GNU - Free Software Philosophy](https://www.gnu.org/philosophy/philosophy.html)
 - [Computer Fraud and Abuse Act](https://www.congress.gov/bill/99th-congress/house-bill/4718/text)
-- [Security Bsides - Mini Confrences](http://www.securitybsides.com/)
 - [Wigle - a map of discovered wifi networks](https://wigle.net/)
+
+### Security Confrences
+- [Security Bsides - Mini Confrences](http://www.securitybsides.com/)
+- [DEF CON - Possibly the most notorious and popular security confrence](https://defcon.org/)
+- [Day od Shecurity - Women in Security](https://www.dayofshecurity.com/)
 
 # Cyber Range 
 ## Distros
