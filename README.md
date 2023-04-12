@@ -11,11 +11,11 @@ A collection of awesome links I've compiled.
 - [Security Now - A fun security podcast](https://www.youtube.com/user/TWiTSecurityNow)
 - [Shannon Morse - Awesome tech lady](https://www.youtube.com/@ShannonMorse)
 - [Red Team Village](https://www.youtube.com/@RedTeamVillage)
-- [DEFCON - Security Conference](https://www.youtube.com/@DEFCONConference)
+- [DEFCON - Security Conference YouTube Channel](https://www.youtube.com/@DEFCONConference)
 - [HackerOne](https://www.youtube.com/@HackerOneTV/videos)
 - [Computerphile - Cool Tech Videos With Cool People](https://www.youtube.com/@Computerphile)
 - [Null Byte](https://www.youtube.com/@NullByteWHT)
-- [Day of Shecurity - Women Focused Security Confrence](https://www.youtube.com/@DayofShecurity)
+- [Day of Shecurity - Women Focused Security Confrence YouTube Channel](https://www.youtube.com/@DayofShecurity)
 ### Websites
 - [XKCD - A webcomic of romance, sarcasm, math, and language.](https://xkcd.com/)
 - [XKCD - But With a CLI interface!](https://uni.xkcd.com/)
