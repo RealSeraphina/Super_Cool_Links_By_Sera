@@ -118,6 +118,7 @@ A collection of awesome links I've compiled.
 
 # Networking
 - [Smart Draw - Create Network Diagrams](https://www.smartdraw.com/)
+- [OSI Model Explained!](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
 
 # Python 🐍
 ### Websites
