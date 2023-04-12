@@ -56,7 +56,7 @@ A collection of awesome links I've compiled.
 - [Notepad++ - Sera's favorite text editor avaliable for Windows!](https://notepad-plus-plus.org/)
 - [Sublime Text - a minimilistic GUI based text editor.](https://www.sublimetext.com/)
 
-# CTF/Extra Practice
+# CTF/Extra Practice 🏴
 - [Bandit Over The Wire](https://overthewire.org/)
 - [Hacking Training For The Best](https://www.hackthebox.com/)
 - [TryHackMe | Cyber Security Training](https://tryhackme.com/)
@@ -163,7 +163,7 @@ A collection of awesome links I've compiled.
 - [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
 - [The Problem with Time & Timezones - Computerphile](https://youtu.be/-5wpm-gesOY)
 
-# Web and Protocols
+# Web and Protocols 🌐
 - [DNS Record Types](https://www.cloudflare.com/learning/dns/dns-records/)
 - [Network Time Protocol (NTP) - Computerphile](https://www.youtube.com/watch?v=BAo5C2qbLq8)
 
