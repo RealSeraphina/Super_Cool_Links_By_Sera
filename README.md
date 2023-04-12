@@ -187,11 +187,17 @@ A collection of awesome links I've compiled.
 - [Writing DFIR Reports a Primer](https://www.forensicfocus.com/articles/writing-dfir-reports-a-primer/)
 - [Intro to Report Writing for Digital Forensics](https://www.sans.org/blog/intro-to-report-writing-for-digital-forensics/)
 - [Best Practices for Writing a Digital Forensics Report](https://www.paliscope.com/2021/07/12/best-practices-for-writing-a-digital-forensics-report/)
-### Further Readings
+
+# Sera's Reading List 📚
 - The Art of Memory Forensics, 1st Ed. by Ligh et al. ISBN: 978-1118825099.
 - Reference: Digital Evidence and Computer Crime: Forensic Science, Computers and the Internet, 3rd Ed. by Casey. ISBN: 978-0123742681.
 - File System Forensic Analysis, 2nd th Ed. by Carrier. ISBN: 978-0321268174.
 - Windows Registry Forensics, 2nd Ed. by Carvey. ISBN: 978-0128032916.
 - Windows Forensic Analysis Toolkit, 4th Ed. by Carvey. ISBN: 978-0124171572.
-
+- Secrets & Lies Digital Security in a Networked World, by Bruce Schneier. ISBN: 978-1119092438.
+- The Mathmatics of Secrets Cryptography From Caesar Ciphers to Digital Encryption, by Joshua Holden. ISBN: 978-0691141756.
+- Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers, by Andy Greenberg. ISBN: 978-0385544405.
+- The Hundred-Page Machine Learning Book, by Andriy Burkov. ISBN: 978-1999579500.
+- The C Programming Language, 2nd Edition, by Brian W. Kernighan and Dennis M. Ritchie. ISBN: 978-0131103627.
+- Obfuscated C and Other Mysteries, by Don Libes. ISBN: 978-0471578055.
 
