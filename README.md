@@ -107,6 +107,7 @@ A collection of awesome links I've compiled.
 - [Unix File Permissions](https://kapeli.com/cheat_sheets/Unix_File_Permissions.docset/Contents/Resources/Documents/index)
 - [What is SUID, SGID and Sticky bit](https://www.thegeekdiary.com/what-is-suid-sgid-and-sticky-bit/)
 - [Linux permissions: SUID, SGID, and sticky bit](https://www.redhat.com/sysadmin/suid-sgid-sticky-bit)
+- [Linux File Permissions: Understanding setuid, setgid, and the Sticky Bit](https://www.cbtnuggets.com/blog/technology/system-admin/linux-file-permissions-understanding-setuid-setgid-and-the-sticky-bit)
 
 # SSH 
 - [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
