@@ -66,6 +66,7 @@ A collection of awesome links I've compiled.
 - [Python Challenges](https://edabit.com/challenges)
 - [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive)
 - [Cyber Defenders - Blue Team CTF Challenges](https://cyberdefenders.org/blueteam-ctf-challenges/)
+- [BASH Scripting Challenges!](https://www.hackerrank.com/domains/shell) 
 
 # Linux 🐧
 - [Linux File Sytem Structure](https://www.makeuseof.com/linux-directory-structure-explained/)
