@@ -122,6 +122,7 @@ A collection of awesome links I've compiled.
 - [if/else/elif logic](https://www.tutorialkart.com/bash-shell-scripting/bash-else-if/)
 - [Bash Scripting Cheatsheet!](https://devhints.io/bash)
 - [For Loops](https://www.cyberciti.biz/faq/bash-for-loop/)
+- [Validate User Input](https://blog.eduonix.com/shell-scripting/learn-validating-user-input-in-linux-shell-scripting/)
 
 
 # Networking
