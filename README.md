@@ -114,6 +114,7 @@ A collection of awesome links I've compiled.
 - [How To Use SSH to Connect to a Remote Server  | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server)
 
 # Bash Scripting 🧑‍💻
+- [Origin of "Hello World"](https://blogs.vmware.com/opensource/2020/04/22/hello-world-timeless-code)
 - [Environmental Variables - Linux has several variables that hold some cool information!](https://www.cherryservers.com/blog/how-to-set-list-and-manage-linux-environment-variables)
 - [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 - [Bash Scripting Tutorial for Beginners: What It Is, How to Write One, and Script Examples](https://www.hostinger.com/tutorials/bash-scripting-tutorial)
