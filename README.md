@@ -52,6 +52,8 @@ A collection of awesome links I've compiled.
 
 # Random
 - [Some cybersecurity terms to be familar with!](https://www.esecurityplanet.com/networks/types-of-network-security/#ztna)
+- [Star Wars in a Terminal!](https://itsfoss.com/star-wars-linux/)
+- [Star Wars Terminal in a web browser](https://www.asciimation.co.nz/)
 ## Tools/Utilities
 - [Notepad++ - Sera's favorite text editor avaliable for Windows!](https://notepad-plus-plus.org/)
 - [Sublime Text - a minimilistic GUI based text editor.](https://www.sublimetext.com/)
@@ -147,7 +149,7 @@ A collection of awesome links I've compiled.
 # Python 🐍
 ### Websites
 - [Python Documentation](https://docs.python.org/3)
-- [the Zen of Python](https://peps.python.org/pep-0020/)
+- [The Zen of Python](https://peps.python.org/pep-0020/)
 - [PEP 8 – Style Guide for Python Code | peps.python.org](https://peps.python.org/pep-0008/#whitespace-in-expressions-and-statements)
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [String Methods](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-strings/cheatsheet)
