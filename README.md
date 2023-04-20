@@ -88,7 +88,8 @@ A collection of awesome links I've compiled.
 - [/bin and /sbin what they have to do with PATH](http://www.linfo.org/path_env_var.html)
 - [Operating System Vs. Kernel?](https://stackoverflow.com/questions/3315730/what-is-the-difference-between-the-operating-system-and-the-kernel)
 - [What is CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
-- [YUM vs. APT: What's the Difference? | phoenixNAP KB](https://phoenixnap.com/kb/yum-vs-apt)
+- [BASH Vs. Z Shell](https://medium.com/@harrison.miller13_28580/bash-vs-z-shell-a-tale-of-two-command-line-shells-c65bb66e4658)
+- [YUM Vs. APT: What's the Difference? | phoenixNAP KB](https://phoenixnap.com/kb/yum-vs-apt)
 
 # Text Editing 📝
 - [A Great Vim Cheat Sheet](https://vimsheet.com/)
