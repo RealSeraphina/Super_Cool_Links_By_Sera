@@ -128,6 +128,7 @@ A collection of awesome links I've compiled.
 - [Bash Scripting Cheatsheet!](https://devhints.io/bash)
 - [For Loops](https://www.cyberciti.biz/faq/bash-for-loop/)
 - [Validate User Input](https://blog.eduonix.com/shell-scripting/learn-validating-user-input-in-linux-shell-scripting/)
+- [Break Your Terminal with a Fork Bomb DOS Attack!](https://www.cyberciti.biz/faq/understanding-bash-fork-bomb/)
 
 
 # Networking
