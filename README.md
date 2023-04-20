@@ -29,7 +29,7 @@ A collection of awesome links I've compiled.
 - [Computer Fraud and Abuse Act](https://www.congress.gov/bill/99th-congress/house-bill/4718/text)
 - [Wigle - a map of discovered wifi networks](https://wigle.net/)
 
-### Security Confrences
+### Security Conferences
 - [Security Bsides - Mini Confrences](http://www.securitybsides.com/)
 - [DEF CON - Possibly the most notorious and popular security confrence](https://defcon.org/)
 - [Day of Shecurity - Women in Security](https://www.dayofshecurity.com/)
