@@ -33,6 +33,7 @@ A collection of awesome links I've compiled.
 - [Security Bsides - Mini Confrences](http://www.securitybsides.com/)
 - [DEF CON - Possibly the most notorious and popular security confrence](https://defcon.org/)
 - [Day of Shecurity - Women in Security](https://www.dayofshecurity.com/)
+- [Black Hat Con - More Industry Focused Than Defcon](https://blackhat.com/)
 
 # Cyber Range 
 ## Distros
