@@ -152,6 +152,7 @@ A collection of awesome links I've compiled.
 
 # Python 🐍
 ### Websites
+- [A History of Programming Languages](https://cs.brown.edu/~adf/programming_languages.html)
 - [Python Documentation](https://docs.python.org/3)
 - [The Zen of Python](https://peps.python.org/pep-0020/)
 - [PEP 8 – Style Guide for Python Code | peps.python.org](https://peps.python.org/pep-0008/#whitespace-in-expressions-and-statements)
