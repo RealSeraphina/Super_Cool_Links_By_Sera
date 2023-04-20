@@ -164,6 +164,8 @@ A collection of awesome links I've compiled.
 - [".append()" Vs "+= []"](https://stackoverflow.com/questions/725782/in-python-what-is-the-difference-between-append-and)
 - [Truth Tables](https://sites.millersville.edu/bikenaga/math-proof/truth-tables/truth-tables.html)
 - [os — Miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)
+- [Use Python as a graphing calculator with matplotlib](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
+- [Graphics in Python With Turtle](https://docs.python.org/3/library/turtle.html)
 - [Jupyter Notebook: An Introduction – Real Python](https://realpython.com/jupyter-notebook-introduction/#running-cells)
 - [regex101: build, test, and debug regex](https://regex101.com/)
 
