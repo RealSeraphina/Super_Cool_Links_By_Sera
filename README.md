@@ -83,6 +83,7 @@ A collection of awesome links I've compiled.
 - [Cron Jobs - OSTechNix](https://www.ostechnix.com/a-beginners-guide-to-cron-jobs/)
 - [Crontab Guru - a crontab calculator](https://crontab.guru/)
 - [Cron Job: A Comprehensive Guide for Beginners 2023](https://www.hostinger.com/tutorials/cron-job)
+- [Start a process on boot](https://www.simplified.guide/linux/automatically-run-program-on-startup)
 - [Explain Shell- match command-line arguments to their help text](https://explainshell.com/)
 - [/bin and /sbin what they have to do with PATH](http://www.linfo.org/path_env_var.html)
 - [Operating System Vs. Kernel?](https://stackoverflow.com/questions/3315730/what-is-the-difference-between-the-operating-system-and-the-kernel)
