@@ -171,6 +171,7 @@ A collection of awesome links I've compiled.
 - [Graphics in Python With Turtle](https://docs.python.org/3/library/turtle.html)
 - [Jupyter Notebook: An Introduction – Real Python](https://realpython.com/jupyter-notebook-introduction/#running-cells)
 - [regex101: build, test, and debug regex](https://regex101.com/)
+- [Lambda Functions - Almost magical one line functions](https://www.w3schools.com/python/python_lambda.asp)
 - [VS Code - Currently my favorite IDE](https://code.visualstudio.com/)
 - [Indent-Rainbow - An extension for VS Code that will highlight indents](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
