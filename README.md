@@ -36,7 +36,7 @@ A collection of awesome links I've compiled.
 - [Black Hat Con - More Industry Focused Than Defcon](https://blackhat.com/)
 
 ### Career Exploration
-- [Comptia's Career Pathways with their corosponding certifications.](https://www.comptia.org/content/it-careers-path-roadmap/cybersecurity-specialist)
+- [Comptia's Career Pathways with their corosponding certifications](https://www.comptia.org/content/it-careers-path-roadmap/cybersecurity-specialist)
 -[Cyberseek - Career Pathways](https://www.cyberseek.org/pathway.html)
 -[National Initiative for Cybersecurity Careers and Studies (NICCS)](https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool)
 
