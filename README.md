@@ -35,6 +35,11 @@ A collection of awesome links I've compiled.
 - [Day of Shecurity - Women in Security](https://www.dayofshecurity.com/)
 - [Black Hat Con - More Industry Focused Than Defcon](https://blackhat.com/)
 
+### Career Exploration
+- [Comptia's Career Pathways with their corosponding certifications.](https://www.comptia.org/content/it-careers-path-roadmap/cybersecurity-specialist)
+-[Cyberseek - Career Pathways](https://www.cyberseek.org/pathway.html)
+-[National Initiative for Cybersecurity Careers and Studies (NICCS)](https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool)
+
 # Cyber Range 
 ## Distros
 ### Linux
@@ -171,6 +176,7 @@ A collection of awesome links I've compiled.
 - [Graphics in Python With Turtle](https://docs.python.org/3/library/turtle.html)
 - [Jupyter Notebook: An Introduction – Real Python](https://realpython.com/jupyter-notebook-introduction/#running-cells)
 - [regex101: build, test, and debug regex](https://regex101.com/)
+- [.sort() Vs sorted()](https://medium.com/@DahlitzF/list-sort-vs-sorted-list-aab92c00e17)
 - [Lambda Functions - Almost magical one line functions](https://www.w3schools.com/python/python_lambda.asp)
 - [VS Code - Currently my favorite IDE](https://code.visualstudio.com/)
 - [Indent-Rainbow - An extension for VS Code that will highlight indents](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
