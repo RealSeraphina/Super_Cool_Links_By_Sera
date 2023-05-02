@@ -192,6 +192,11 @@ A collection of awesome links I've compiled.
 - [DNS Record Types](https://www.cloudflare.com/learning/dns/dns-records/)
 - [Network Time Protocol (NTP) - Computerphile](https://www.youtube.com/watch?v=BAo5C2qbLq8)
 
+# Windows Administration 🪟
+- [Group Policy Architecture](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/policy/group-policy-architecture)
+- [Remotly Install Software Via Group Policy](https://learn.microsoft.com/en-us/troubleshoot/windows-server/group-policy/use-group-policy-to-install-software)
+- [A Better Control Panel Using "God Mode"](https://answers.microsoft.com/en-us/insider/forum/all/god-mode-other-windows-10-tips-tricks/9e81e023-9179-4b59-9937-f1e9aab537b4)
+
 # Forensics 🔍
 ### Useful Software
 - [Autopsy](https://www.autopsy.com/)
