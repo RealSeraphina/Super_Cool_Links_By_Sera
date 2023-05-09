@@ -220,6 +220,7 @@ A collection of awesome links I've compiled.
 # Web Vulnerabilities 
 - [OWASP Top 10](https://owasp.org/Top10/)
 - [What is DOM?](https://www.w3schools.com/js/js_htmldom.asp)
+- [XXS Worm - Sammy wants to be your MySpace friend](https://samy.pl/myspace/)
 
 # Forensics 🔍
 ### Useful Software
