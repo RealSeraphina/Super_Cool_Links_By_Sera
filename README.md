@@ -203,11 +203,12 @@ A collection of awesome links I've compiled.
 - [Computer Fraud and Abuse Act](https://www.justice.gov/jm/jm-9-48000-computer-fraud)
 - [GDPR](https://gdpr.eu/what-is-gdpr/)
 - [Whois - Online tool](https://whois.domaintools.com)
+- [Nmap Xmas Scan - It's the most alarming time of the year!](https://linuxhint.com/nmap_xmas_scan/)
 - [Spiderfoot - A OSINT collection tool](https://github.com/smicallef/spiderfoot)
 - [Shodan - Search exposed devices across the world](https://www.shodan.io/)
 - [Nessus - A vaulneribility scanning suite](https://www.tenable.com/products/nessus)
 - [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
-### Examples of Vaulneribilities
+### Examples of Vulnerabilities
 ### Software
 - [Log4j - Logs are good... Right?!?!](https://nvd.nist.gov/vuln/detail/CVE-2021-44228)
 - [Dirtycow - Compromising the Linux kernal](https://dirtycow.ninja/)
@@ -215,6 +216,10 @@ A collection of awesome links I've compiled.
 - [Spectre and Meltdown - A long lived flaw in Intel's CPU architecture](https://meltdownattack.com/)
 ### People
 - [Edward Snowden - Maybe pay attention to the guy in the weird hoodie](https://intelligence.house.gov/uploadedfiles/snowden_report_highlights.pdf)
+
+# Web Vulnerabilities 
+- [OWASP Top 10](https://owasp.org/Top10/)
+- [What is DOM?](https://www.w3schools.com/js/js_htmldom.asp)
 
 # Forensics 🔍
 ### Useful Software
