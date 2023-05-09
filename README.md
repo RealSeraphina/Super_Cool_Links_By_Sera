@@ -199,6 +199,23 @@ A collection of awesome links I've compiled.
 - [Active Directory Administration](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-ds-simplified-administration)
 - [LDAP Vs. Active Directory](https://www.okta.com/identity-101/ldap-vs-active-directory/)
 
+# Reconnaissance 🔭
+- [Computer Fraud and Abuse Act](https://www.justice.gov/jm/jm-9-48000-computer-fraud)
+- [GDPR](https://gdpr.eu/what-is-gdpr/)
+- [Whois - Online tool](https://whois.domaintools.com)
+- [Spiderfoot - A OSINT collection tool](https://github.com/smicallef/spiderfoot)
+- [Shodan - Search exposed devices across the world](https://www.shodan.io/)
+- [Nessus - A vaulneribility scanning suite](https://www.tenable.com/products/nessus)
+- [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
+### Examples of Vaulneribilities
+### Software
+- [Log4j - Logs are good... Right?!?!](https://nvd.nist.gov/vuln/detail/CVE-2021-44228)
+- [Dirtycow - Compromising the Linux kernal](https://dirtycow.ninja/)
+### Hardware
+- [Spectre and Meltdown - A long lived flaw in Intel's CPU architecture](https://meltdownattack.com/)
+### People
+- [Edward Snowden - Maybe pay attention to the guy in the weird hoodie](https://intelligence.house.gov/uploadedfiles/snowden_report_highlights.pdf)
+
 # Forensics 🔍
 ### Useful Software
 - [Autopsy](https://www.autopsy.com/)
