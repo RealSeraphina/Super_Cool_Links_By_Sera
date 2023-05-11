@@ -202,7 +202,7 @@ A collection of awesome links I've compiled.
 - [Active Directory Administration](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-ds-simplified-administration)
 - [LDAP Vs. Active Directory](https://www.okta.com/identity-101/ldap-vs-active-directory/)
 
-# Infamous Hacks / Attacks
+# Infamous Hacks / Attacks 🧑‍💻
 - [WannaCry - Who doesn't like randsomeware](https://www.cisa.gov/sites/default/files/FactSheets/NCCIC%20ICS_FactSheet_WannaCry_Ransomware_S508C.pdf)
 - [Stuxnet - Centrifuges in Iraqi Nuclear power plant go Brrrrr... APT.. USA... They both have 3 letters.  ](https://spectrum.ieee.org/the-real-story-of-stuxnet)
 
