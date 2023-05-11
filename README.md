@@ -57,12 +57,15 @@ A collection of awesome links I've compiled.
 - [Windows Subsystem for Linux (WSL) This is a really cool hypervisor built into modern Windows](https://learn.microsoft.com/en-us/windows/wsl/install) 
 
 # Random
+- [Cyber Chef - A Tool For Decoding Encoded Data Courtesy of British Intelligence!](https://gchq.github.io/CyberChef/)
 - [Some cybersecurity terms to be familar with!](https://www.esecurityplanet.com/networks/types-of-network-security/#ztna)
 - [Star Wars in a Terminal!](https://itsfoss.com/star-wars-linux/)
 - [Star Wars Terminal in a web browser](https://www.asciimation.co.nz/)
+
 ## Tools/Utilities
 - [Notepad++ - Sera's favorite text editor avaliable for Windows!](https://notepad-plus-plus.org/)
 - [Sublime Text - a minimilistic GUI based text editor.](https://www.sublimetext.com/)
+- [O.MG Cable - A USB cable that can execute scripts.](https://shop.hak5.org/products/omg-cable) 
 
 # CTF/Extra Practice 🏴
 - [Bandit Over The Wire](https://overthewire.org/)
@@ -199,6 +202,10 @@ A collection of awesome links I've compiled.
 - [Active Directory Administration](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-ds-simplified-administration)
 - [LDAP Vs. Active Directory](https://www.okta.com/identity-101/ldap-vs-active-directory/)
 
+# Infamous Hacks / Attacks
+- [WannaCry - Who doesn't like randsomeware](https://www.cisa.gov/sites/default/files/FactSheets/NCCIC%20ICS_FactSheet_WannaCry_Ransomware_S508C.pdf)
+- [Stuxnet - Centrifuges in Iraqi Nuclear power plant go Brrrrr... APT.. USA... They both have 3 letters.  ](https://spectrum.ieee.org/the-real-story-of-stuxnet)
+
 # Reconnaissance 🔭
 - [Computer Fraud and Abuse Act](https://www.justice.gov/jm/jm-9-48000-computer-fraud)
 - [GDPR](https://gdpr.eu/what-is-gdpr/)
@@ -222,6 +229,21 @@ A collection of awesome links I've compiled.
 - [What is DOM?](https://www.w3schools.com/js/js_htmldom.asp)
 - [XXS Worm - Sammy wants to be your MySpace friend](https://samy.pl/myspace/)
 - [Primer on Predicate Logic - This is NOT something we are directly exploring, but a surprising amount of people have asked about Predicate Logic and its relation to SQL](https://courses.cs.washington.edu/courses/cse344/15wi/lectures/query-language-primer.pdf)
+
+# Bind and Reverse Shells 🐚
+- [RevShells - A Tool for Generating Code to Crreate Bind and Reverse Shells](https://www.revshells.com/)
+- [Ncat - A New Version of Net Cat With Extra Features](https://nmap.org/ncat/)
+- [ELF File Format - This is the Executable File Format for Linux](https://www.ics.uci.edu/~aburtsev/238P/hw/hw3-elf/hw3-elf.html)
+- [PE File Format - This is the Executable File Format for Windows](https://learn.microsoft.com/en-us/windows/win32/debug/pe-format)
+- [The 6 Principles of Social Engineering](https://www.cde.state.co.us/dataprivacyandsecurity/socialengineeringeducation)
+- [Bind Vs. Reverse Shell](https://medium.com/@PenTest_duck/bind-vs-reverse-vs-encrypted-shells-what-should-you-use-6ead1d947aa9)
+
+# Metasploit and Exploits 💣
+- [EternalBlue - SMB Vaulneribilities Strike Hard!](https://www.avast.com/c-eternalblue)
+- [MSFVenom Official Documentation](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html)
+- [Metasploit Official Documentation](https://docs.metasploit.com/) 
+
+
 
 # Forensics 🔍
 ### Useful Software
