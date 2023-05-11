@@ -242,7 +242,9 @@ A collection of awesome links I've compiled.
 - [EternalBlue - SMB Vaulneribilities Strike Hard!](https://www.avast.com/c-eternalblue)
 - [MSFVenom Official Documentation](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html)
 - [Metasploit Official Documentation](https://docs.metasploit.com/) 
-
+### IDK Why I have it out for Bluetooth today
+- [Bluetooth Vaulneribility BlueBorne](https://www.armis.com/research/blueborne/)
+- [Bluetooth - The Fixed Coordinate Invalid Curve Attack](https://eprint.iacr.org/2019/1043.pdf)
 
 
 # Forensics 🔍
