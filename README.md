@@ -60,10 +60,13 @@ A collection of awesome links I've compiled.
 
 # Random
 - [Some cybersecurity terms to be familar with!](https://www.esecurityplanet.com/networks/types-of-network-security/#ztna)
+- [What is a Script Kitty - ᓚᘏᗢ](https://www.okta.com/identity-101/script-kiddie/)
 - [Star Wars in a Terminal!](https://itsfoss.com/star-wars-linux/)
 - [Star Wars Terminal in a web browser](https://www.asciimation.co.nz/)
 - [Discord QR Code Hacks](https://portswigger.net/daily-swig/discord-users-warned-over-qr-code-login-scam-that-can-result-in-pwned-accounts)
 - [Have I Been Pwned - Have your Credentials Been Leaked?](https://haveibeenpwned.com/)
+- [Nonce - it's a funny word](https://csrc.nist.gov/glossary/term/nonce) 
+
 
 ## Tools/Utilities
 - [Notepad++ - Sera's favorite text editor avaliable for Windows!](https://notepad-plus-plus.org/)
@@ -83,6 +86,7 @@ A collection of awesome links I've compiled.
 - [Cyber Defenders - Blue Team CTF Challenges](https://cyberdefenders.org/blueteam-ctf-challenges/)
 - [BASH Scripting Challenges!](https://www.hackerrank.com/domains/shell) 
 - [SANS Holiday Hack Challenge - Fun Cybersecurity Practice](https://www.sans.org/mlp/holiday-hack-challenge/)
+- [DVWA - It's a Web App That's Pretty Damn Vaulnerable](https://github.com/digininja/DVWA)
 
 # Linux 🐧
 - [Linux File Sytem Structure](https://www.makeuseof.com/linux-directory-structure-explained/)
@@ -146,7 +150,6 @@ A collection of awesome links I've compiled.
 - [Validate User Input](https://blog.eduonix.com/shell-scripting/learn-validating-user-input-in-linux-shell-scripting/)
 - [Break Your Terminal with a Fork Bomb DOS Attack!](https://www.cyberciti.biz/faq/understanding-bash-fork-bomb/)
 
-
 # Networking
 - [Smart Draw - Create Network Diagrams](https://www.smartdraw.com/)
 - [OSI Model Explained!](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
@@ -159,6 +162,7 @@ A collection of awesome links I've compiled.
 - [What is a Subnet?](https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/)
 - [Subnetting Cheat Sheet](https://ipcisco.com/wp-content/uploads/Cheat-Sheets/subnetting-cheat-sheet.pdf) 
 - [Smart Draw - A good utility for creating network diagrams](https://cloud.smartdraw.com/)
+
 # Wireshark 🦈
 - [Wireshark's Official Introduction Doc](https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html)
 - [Another Introduction to Wireshark](https://www.redhat.com/sysadmin/introduction-wireshark)
@@ -175,7 +179,7 @@ A collection of awesome links I've compiled.
 - [The Zen of Python](https://peps.python.org/pep-0020/)
 - [PEP 8 – Style Guide for Python Code | peps.python.org](https://peps.python.org/pep-0008/#whitespace-in-expressions-and-statements)
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
-- [ WHy do datatypes even exist?](https://cis.msjc.edu/tutorials/Programming/DataTypes/)
+- [Why do datatypes even exist?](https://cis.msjc.edu/tutorials/Programming/DataTypes/)
 - [String Methods](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-strings/cheatsheet)
 - [String Cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/manipulating-strings)
 - [Python String Methods](https://www.w3schools.com/python/python_ref_string.asp)
@@ -193,7 +197,6 @@ A collection of awesome links I've compiled.
 - [Lambda Functions - Almost magical one line functions](https://www.w3schools.com/python/python_lambda.asp)
 - [VS Code - Currently my favorite IDE](https://code.visualstudio.com/)
 - [Indent-Rainbow - An extension for VS Code that will highlight indents](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-
 ### YouTube
 - [Just In Time (JIT) Compilers - Computerphile](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 - [Floating Point Numbers - Computerphile](https://www.youtube.com/watch?v=PZRI1IfStY0)
@@ -205,6 +208,7 @@ A collection of awesome links I've compiled.
 - [DNS Record Types](https://www.cloudflare.com/learning/dns/dns-records/)
 - [Network Time Protocol (NTP) - Computerphile](https://www.youtube.com/watch?v=BAo5C2qbLq8)
 - [OSI Model](https://www.proofpoint.com/us/threat-reference/osi-model) 
+- [Public vs Private IPs](https://www.avast.com/c-ip-address-public-vs-private)
 
 # Windows Administration 🪟
 - [Group Policy Architecture](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/policy/group-policy-architecture)
@@ -212,6 +216,7 @@ A collection of awesome links I've compiled.
 - [A Better Control Panel Using "God Mode"](https://answers.microsoft.com/en-us/insider/forum/all/god-mode-other-windows-10-tips-tricks/9e81e023-9179-4b59-9937-f1e9aab537b4)
 - [Active Directory Administration](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-ds-simplified-administration)
 - [LDAP Vs. Active Directory](https://www.okta.com/identity-101/ldap-vs-active-directory/)
+- [Detecting and Preventing LSASS Credential Dumping](https://www.microsoft.com/en-us/security/blog/2022/10/05/detecting-and-preventing-lsass-credential-dumping-attacks/)
 
 # Infamous Hacks / Attacks 🧑‍💻
 - [WannaCry - Who doesn't like randsomeware](https://www.cisa.gov/sites/default/files/FactSheets/NCCIC%20ICS_FactSheet_WannaCry_Ransomware_S508C.pdf)
@@ -226,6 +231,7 @@ A collection of awesome links I've compiled.
 - [Shodan - Search exposed devices across the world](https://www.shodan.io/)
 - [Nessus - A vaulneribility scanning suite](https://www.tenable.com/products/nessus)
 - [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
+- [No Tech Hacking - OSINT is Best Intelligence](https://youtu.be/0tAc3LnE9A4)
 ### Examples of Vulnerabilities
 ### Software
 - [Log4j - Logs are good... Right?!?!](https://nvd.nist.gov/vuln/detail/CVE-2021-44228)
@@ -242,6 +248,14 @@ A collection of awesome links I've compiled.
 - [Primer on Predicate Logic - This is NOT something we are directly exploring, but a surprising amount of people have asked about Predicate Logic and its relation to SQL](https://courses.cs.washington.edu/courses/cse344/15wi/lectures/query-language-primer.pdf)
 - [SQL Injection - An Introduction](https://portswigger.net/web-security/sql-injection)
 - [SQL Injection Cheat Sheet](https://pentestmonkey.net/category/cheat-sheet/sql-injection)
+
+# Passwors and Password Cracking
+- [Salt Your Passwords - A More Secure Way of generating password Hashes](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
+- [Pepper Your Passwords - Because they Shold be Well Seasoned!](https://bitwarden.com/blog/pepper-for-your-password)
+- [AI Password Cracking - Be Afraid! Be VERY Afraid! Or Eh Not So Much](https://arstechnica.com/information-technology/2023/04/the-passgan-ai-password-cracker-what-it-is-and-why-its-mostly-hype/) 
+- [CrackStation - Online Pre-Computed Lookup Tables](https://crackstation.net/)
+- [John the Ripper - He's Coming For Your Passwrod Hashes](https://www.openwall.com/john/)
+- [Hydra - Need to Attack Webservices?](https://github.com/vanhauser-thc/thc-hydra)
 
 # Bind and Reverse Shells 🐚
 - [RevShells - A Tool for Generating Code to Crreate Bind and Reverse Shells](https://www.revshells.com/)
@@ -260,6 +274,8 @@ A collection of awesome links I've compiled.
 - [Using private key to SSH](https://knowledge.informatica.com/s/article/520984?language=en_US) 
 - [Windows Privillage Escalation Scripts/Tools](https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc)
 - [Windows Potatoes 🥔- Boil Them, Smash Them, Stick Them in a Stew](https://jlajara.gitlab.io/Potatoes_Windows_Privesc)
+- [MimiKats - Gentil Kiwi's Personal Blog](https://blog.gentilkiwi.com/mimikatz)
+
 ### IDK Why I have it out for Bluetooth today
 - [Bluetooth Vaulneribility BlueBorne](https://www.armis.com/research/blueborne/)
 - [Bluetooth - The Fixed Coordinate Invalid Curve Attack](https://eprint.iacr.org/2019/1043.pdf)
@@ -284,6 +300,10 @@ A collection of awesome links I've compiled.
 - [XXD - CLI Hex Editor](https://linux.die.net/man/1/xxd)
 ### Cheat Sheets
 - [SANS Ultimate List of Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+### Windows Forensics
+- [Registry Hives - You though Hives Were For Bees?!?!🐝](https://learn.microsoft.com/en-us/windows/win32/sysinfo/registry-hives)
+- [Registry Analysis - BEES 🐝🐝🐝](http://what-when-how.com/windows-forensic-analysis/registry-analysis-windows-forensic-analysis-part-7/)
+- [Microsoft Registry Hives - Official Documentation](https://learn.microsoft.com/en-us/windows/win32/sysinfo/registry-hives)
 ### How to write a Digital Forensics Report
 - [Writing DFIR Reports a Primer](https://www.forensicfocus.com/articles/writing-dfir-reports-a-primer/)
 - [Intro to Report Writing for Digital Forensics](https://www.sans.org/blog/intro-to-report-writing-for-digital-forensics/)
