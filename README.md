@@ -28,6 +28,7 @@ A collection of awesome links I've compiled.
 - [GNU - Free Software Philosophy](https://www.gnu.org/philosophy/philosophy.html)
 - [Computer Fraud and Abuse Act](https://www.congress.gov/bill/99th-congress/house-bill/4718/text)
 - [Wigle - a map of discovered wifi networks](https://wigle.net/)
+- [Hacker Typer - Hacking is hard... Hollywood makes it look easy; like this](https://hackertyper.net/) 
 
 ### Security Conferences
 - [Security Bsides - Mini Confrences](http://www.securitybsides.com/)
@@ -41,6 +42,7 @@ A collection of awesome links I've compiled.
 - [National Initiative for Cybersecurity Careers and Studies (NICCS)](https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool)
 
 # Cyber Range 
+- [Sandboxing - I hate sand... It gets everywhere](https://www.spiceworks.com/it-security/cyber-risk-management/articles/what-is-sandboxing/) 
 ## Distros
 ### Linux
 - [Kali - A Debian based distro with a bunch of Red Team tools](https://www.kali.org/)
@@ -57,14 +59,16 @@ A collection of awesome links I've compiled.
 - [Windows Subsystem for Linux (WSL) This is a really cool hypervisor built into modern Windows](https://learn.microsoft.com/en-us/windows/wsl/install) 
 
 # Random
-- [Cyber Chef - A Tool For Decoding Encoded Data Courtesy of British Intelligence!](https://gchq.github.io/CyberChef/)
 - [Some cybersecurity terms to be familar with!](https://www.esecurityplanet.com/networks/types-of-network-security/#ztna)
 - [Star Wars in a Terminal!](https://itsfoss.com/star-wars-linux/)
 - [Star Wars Terminal in a web browser](https://www.asciimation.co.nz/)
+- [Discord QR Code Hacks](https://portswigger.net/daily-swig/discord-users-warned-over-qr-code-login-scam-that-can-result-in-pwned-accounts)
+- [Have I Been Pwned - Have your Credentials Been Leaked?](https://haveibeenpwned.com/)
 
 ## Tools/Utilities
 - [Notepad++ - Sera's favorite text editor avaliable for Windows!](https://notepad-plus-plus.org/)
 - [Sublime Text - a minimilistic GUI based text editor.](https://www.sublimetext.com/)
+- [Cyber Chef - A Tool For Decoding Encoded Data Courtesy of British Intelligence!](https://gchq.github.io/CyberChef/)
 - [O.MG Cable - A USB cable that can execute scripts.](https://shop.hak5.org/products/omg-cable) 
 
 # CTF/Extra Practice 🏴
@@ -78,6 +82,7 @@ A collection of awesome links I've compiled.
 - [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive)
 - [Cyber Defenders - Blue Team CTF Challenges](https://cyberdefenders.org/blueteam-ctf-challenges/)
 - [BASH Scripting Challenges!](https://www.hackerrank.com/domains/shell) 
+- [SANS Holiday Hack Challenge - Fun Cybersecurity Practice](https://www.sans.org/mlp/holiday-hack-challenge/)
 
 # Linux 🐧
 - [Linux File Sytem Structure](https://www.makeuseof.com/linux-directory-structure-explained/)
@@ -99,6 +104,7 @@ A collection of awesome links I've compiled.
 - [What is CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
 - [BASH Vs. Z Shell](https://medium.com/@harrison.miller13_28580/bash-vs-z-shell-a-tale-of-two-command-line-shells-c65bb66e4658)
 - [YUM Vs. APT: What's the Difference? | phoenixNAP KB](https://phoenixnap.com/kb/yum-vs-apt)
+![image](https://github.com/RealSeraphina/Super_Cool_Links_By_Sera/assets/29414918/95afde11-bd3c-4216-be71-a38166992dcd)
 
 # Text Editing 📝
 - [A Great Vim Cheat Sheet](https://vimsheet.com/)
@@ -158,6 +164,10 @@ A collection of awesome links I've compiled.
 - [Another Introduction to Wireshark](https://www.redhat.com/sysadmin/introduction-wireshark)
 - [Cheat Sheet!](https://www.stationx.net/wireshark-cheat-sheet/)
 
+# Git / Repositories 
+- [Git Functions Explained With Cats! - ᓚᘏᗢ](https://girliemac.com/blog/2017/12/26/git-purr/)
+- [Github Private/Public Key Setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+
 # Python 🐍
 ### Websites
 - [A History of Programming Languages](https://cs.brown.edu/~adf/programming_languages.html)
@@ -194,6 +204,7 @@ A collection of awesome links I've compiled.
 # Web and Protocols 🌐
 - [DNS Record Types](https://www.cloudflare.com/learning/dns/dns-records/)
 - [Network Time Protocol (NTP) - Computerphile](https://www.youtube.com/watch?v=BAo5C2qbLq8)
+- [OSI Model](https://www.proofpoint.com/us/threat-reference/osi-model) 
 
 # Windows Administration 🪟
 - [Group Policy Architecture](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/policy/group-policy-architecture)
@@ -243,11 +254,19 @@ A collection of awesome links I've compiled.
 # Metasploit and Exploits 💣
 - [EternalBlue - SMB Vaulneribilities Strike Hard!](https://www.avast.com/c-eternalblue)
 - [MSFVenom Official Documentation](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html)
-- [Metasploit Official Documentation](https://docs.metasploit.com/) 
+- [Metasploit Official Documentation](https://docs.metasploit.com/)
+- [Safe, Reliable, Hashdumping](https://www.rapid7.com/blog/post/2010/01/01/safe-reliable-hash-dumping/) 
+- [Linux Privillage Checker - A cool post-exploit reconnonissance script](https://github.com/cervoise/linuxprivcheck)
+- [Using private key to SSH](https://knowledge.informatica.com/s/article/520984?language=en_US) 
+- [Windows Privillage Escalation Scripts/Tools](https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc)
+- [Windows Potatoes 🥔- Boil Them, Smash Them, Stick Them in a Stew](https://jlajara.gitlab.io/Potatoes_Windows_Privesc)
 ### IDK Why I have it out for Bluetooth today
 - [Bluetooth Vaulneribility BlueBorne](https://www.armis.com/research/blueborne/)
 - [Bluetooth - The Fixed Coordinate Invalid Curve Attack](https://eprint.iacr.org/2019/1043.pdf)
 
+# SIEMs (Splunk)
+- [Intro to Splunk](https://www.youtube.com/watch?v=mSQPYRihajw)
+- [Splunk Documentation](https://docs.splunk.com/Documentation/ES)
 
 # Forensics 🔍
 ### Useful Software
@@ -269,6 +288,14 @@ A collection of awesome links I've compiled.
 - [Writing DFIR Reports a Primer](https://www.forensicfocus.com/articles/writing-dfir-reports-a-primer/)
 - [Intro to Report Writing for Digital Forensics](https://www.sans.org/blog/intro-to-report-writing-for-digital-forensics/)
 - [Best Practices for Writing a Digital Forensics Report](https://www.paliscope.com/2021/07/12/best-practices-for-writing-a-digital-forensics-report/)
+### Extra Practice
+- [Rhino Hunt - Answer the Client's questions and see if there is evidence of illegal activity!](https://cfreds-archive.nist.gov/dfrws/Rhino_Hunt.html)
+
+# NIST Cybersecurity Framework and Risk Management Framework
+- [Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf)
+- [Risk - threat x vulnerability x probability of occurrence x impact)/controls in place](https://stateofsecurity.com/formula-for-calculating-cyber-risk/)
+- [NIST Risk Management Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/risk-assessment/tools)
 
 # Sera's Reading List 📚
 - The Art of Memory Forensics, 1st Ed. by Ligh et al. ISBN: 978-1118825099.
