@@ -309,7 +309,7 @@ A collection of awesome links I've compiled.
 - [Intro to Report Writing for Digital Forensics](https://www.sans.org/blog/intro-to-report-writing-for-digital-forensics/)
 - [Best Practices for Writing a Digital Forensics Report](https://www.paliscope.com/2021/07/12/best-practices-for-writing-a-digital-forensics-report/)
 ### Extra Practice
-- [Rhino Hunt - Answer the Client's questions and see if there is evidence of illegal activity!](https://cfreds-archive.nist.gov/dfrws/Rhino_Hunt.html)
+- [Rhino Hunt - Answer the questions and see if there is evidence of illegal activity!](https://cfreds-archive.nist.gov/dfrws/Rhino_Hunt.html)
 
 # NIST Cybersecurity Framework and Risk Management Framework
 - [Cybersecurity Framework](https://www.nist.gov/cyberframework)
