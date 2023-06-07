@@ -94,6 +94,7 @@ A collection of awesome links I've compiled.
 - [BASH Scripting Challenges!](https://www.hackerrank.com/domains/shell) 
 - [SANS Holiday Hack Challenge - Fun Cybersecurity Practice](https://www.sans.org/mlp/holiday-hack-challenge/)
 - [DVWA - It's a Web App That's Pretty Damn Vaulnerable](https://github.com/digininja/DVWA)
+- [Vuln Web - Practice your skills in a live environment](http://www.vulnweb.com/)
 
 # Linux 🐧
 - [Linux File Sytem Structure](https://www.makeuseof.com/linux-directory-structure-explained/)
