@@ -104,6 +104,7 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [Threats Vs. Vulnerabilities Vs. Risk - From Sectigo, a security company.](https://www.sectigo.com/resource-library/what-is-the-difference-between-a-threat-a-vulnerability-and-a-risk)
 - [Calculating Risk - SANS Formula](https://www.sans.org/blog/insider-threat-risk-formula-survivability-risk-and-threat/)
 - [Risk Tolerance](https://csrc.nist.gov/glossary/term/risk_tolerance)
+- [Container Vs VM](https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/containers-vs-vm)
 
 # Linux 🐧
 - [Linux File Sytem Structure](https://www.makeuseof.com/linux-directory-structure-explained/)
