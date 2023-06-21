@@ -98,7 +98,8 @@ A collection of awesome links I've compiled.
 - [Vuln Web - Practice your skills in a live environment](http://www.vulnweb.com/)
 
 # Security Basics
-- [Threats Vs. Vulnerabilities](https://www.hq.nasa.gov/security/it_threats_vulnerabilities.htm)
+- [Threats Vs. Vulnerabilities - It's from NASA so it's space security!](https://www.hq.nasa.gov/security/it_threats_vulnerabilities.htm)
+- [Threats Vs. Vulnerabilities Vs. Risk - From Sectigo, a security company.](https://www.sectigo.com/resource-library/what-is-the-difference-between-a-threat-a-vulnerability-and-a-risk)
 - [CIA Triad - First item in the Executive Summary](https://www.nccoe.nist.gov/publication/1800-25/VolA/index.html)
 
 # Linux 🐧
