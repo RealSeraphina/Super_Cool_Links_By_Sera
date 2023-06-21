@@ -23,6 +23,7 @@ A collection of awesome links I've compiled.
 - [David Bombal - Cool IT Dude](https://www.youtube.com/@davidbombal)
 - [Network Chuck - another Cool IT Dude Who Really Likes Coffee](https://www.youtube.com/@NetworkChuck)
 - [Null Byte - Ethical Hacking](https://www.youtube.com/@NullByteWHT)
+- [Dave's Garage - Former Microsoft Employee with a lot of awesome knowlege](https://www.youtube.com/@DavesGarage)
 ### Websites
 - [XKCD - A webcomic of romance, sarcasm, math, and language.](https://xkcd.com/)
 - [XKCD - But With a CLI interface!](https://uni.xkcd.com/)
@@ -95,6 +96,10 @@ A collection of awesome links I've compiled.
 - [SANS Holiday Hack Challenge - Fun Cybersecurity Practice](https://www.sans.org/mlp/holiday-hack-challenge/)
 - [DVWA - It's a Web App That's Pretty Damn Vaulnerable](https://github.com/digininja/DVWA)
 - [Vuln Web - Practice your skills in a live environment](http://www.vulnweb.com/)
+
+# Security Basics
+- [Threats Vs. Vulnerabilities](https://www.hq.nasa.gov/security/it_threats_vulnerabilities.htm)
+- [CIA Triad - First item in the Executive Summary](https://www.nccoe.nist.gov/publication/1800-25/VolA/index.html)
 
 # Linux 🐧
 - [Linux File Sytem Structure](https://www.makeuseof.com/linux-directory-structure-explained/)
