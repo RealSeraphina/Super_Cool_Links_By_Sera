@@ -102,6 +102,7 @@ A collection of awesome links I've compiled.
 - [CIA Triad - First item in the Executive Summary](https://www.nccoe.nist.gov/publication/1800-25/VolA/index.html)
 - [Threats Vs. Vulnerabilities - It's from NASA so it's space security!](https://www.hq.nasa.gov/security/it_threats_vulnerabilities.htm)
 - [Threats Vs. Vulnerabilities Vs. Risk - From Sectigo, a security company.](https://www.sectigo.com/resource-library/what-is-the-difference-between-a-threat-a-vulnerability-and-a-risk)
+- [Calculating Risk - SANS Formula](https://www.sans.org/blog/insider-threat-risk-formula-survivability-risk-and-threat/)
 - [Risk Tolerance](https://csrc.nist.gov/glossary/term/risk_tolerance)
 
 # Linux 🐧
