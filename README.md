@@ -73,7 +73,8 @@ A collection of awesome links I've compiled.
 - [Star Wars Terminal in a web browser](https://www.asciimation.co.nz/)
 - [Discord QR Code Hacks](https://portswigger.net/daily-swig/discord-users-warned-over-qr-code-login-scam-that-can-result-in-pwned-accounts)
 - [Have I Been Pwned - Have your Credentials Been Leaked?](https://haveibeenpwned.com/)
-- [Nonce - it's a funny word](https://csrc.nist.gov/glossary/term/nonce) 
+- [Nonce - it's a funny word](https://csrc.nist.gov/glossary/term/nonce)
+- [Royalty free images - ya never know when you need to make a presentation!](https://pixabay.com)
 
 
 ## Tools/Utilities
