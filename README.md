@@ -81,7 +81,9 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [Notepad++ - Sera's favorite text editor avaliable for Windows!](https://notepad-plus-plus.org/)
 - [Sublime Text - a minimilistic GUI based text editor.](https://www.sublimetext.com/)
 - [Cyber Chef - A Tool For Decoding Encoded Data Courtesy of British Intelligence!](https://gchq.github.io/CyberChef/)
-- [O.MG Cable - A USB cable that can execute scripts.](https://shop.hak5.org/products/omg-cable) 
+- [O.MG Cable - A USB cable that can execute scripts.](https://shop.hak5.org/products/omg-cable)
+- [Password Monster - Check your password strength.](https://www.passwordmonster.com/)
+- 
 
 # CTF/Extra Practice 🏴
 - [Bandit Over The Wire](https://overthewire.org/)
