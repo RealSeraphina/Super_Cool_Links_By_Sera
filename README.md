@@ -115,7 +115,6 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 - [Linux for Hackers – Basics for Cybersecurity Beginners](https://www.freecodecamp.org/news/linux-basics/)
 - [Where GREP Came From - Computerphile](https://www.youtube.com/watch?v=NTfOnGZUZDk)
-- [Chmod Calculator | Chmod Generator | Chmod Command](https://chmodcommand.com/)
 - [AWK Is Still Very Useful | Brian Kernighan and Lex Fridman](https://www.youtube.com/watch?v=W5kr7X7EG4o)
 - [Case Sensitivity Windows Vs. Linux](https://learn.microsoft.com/en-us/windows/wsl/case-sensitivity)
 - [Cron Jobs - OSTechNix](https://www.ostechnix.com/a-beginners-guide-to-cron-jobs/)
@@ -146,6 +145,7 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [ZIP - In depth](https://docs.fileformat.com/compression/zip/)
 
 # Linux Permissions
+- [Chmod Calculator | Chmod Generator | Chmod Command](https://chmodcommand.com/)
 - [Linux File Permissions Cheat Sheet](https://www.psychz.net/client/kb/en/linux-file-permissions-cheat-sheet.html)
 - [Unix File Permissions](https://kapeli.com/cheat_sheets/Unix_File_Permissions.docset/Contents/Resources/Documents/index)
 - [What is SUID, SGID and Sticky bit](https://www.thegeekdiary.com/what-is-suid-sgid-and-sticky-bit/)
