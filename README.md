@@ -319,6 +319,7 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [Binary Ninja - My Hex Editors of Choice](https://binary.ninja/demo/)  
 - [XXD - CLI Hex Editor](https://linux.die.net/man/1/xxd)
 - [Ghidra - reverse engineering tool created by the NSA](https://ghidra-sre.org/)
+- [IDA-pro - widely used reverse engineering software](https://hex-rays.com/IDA-pro/)
 ### Cheat Sheets
 - [SANS Ultimate List of Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 ### Windows Forensics
