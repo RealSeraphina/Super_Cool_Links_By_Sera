@@ -48,6 +48,8 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [Comptia's Career Pathways with their corosponding certifications](https://www.comptia.org/content/it-careers-path-roadmap/cybersecurity-specialist)
 - [Cyberseek - Career Pathways](https://www.cyberseek.org/pathway.html)
 - [National Initiative for Cybersecurity Careers and Studies (NICCS)](https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool)
+- [Cybersecurity Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+- [NetworkChuck's 2023 Breaking into Cybersecurity Roadmap](https://www.youtube.com/results?search_query=networkchuck+breaking+into+cyber)
 
 # Cyber Range 
 - [Sandboxing - I hate sand... It gets everywhere](https://www.spiceworks.com/it-security/cyber-risk-management/articles/what-is-sandboxing/) 
