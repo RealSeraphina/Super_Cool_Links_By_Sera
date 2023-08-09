@@ -61,6 +61,7 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [Linux Mint - A branch of Ubuntu with a different desktop environment](https://linuxmint.com/)
 - [Security Onion - A Blue Team focused distro](https://securityonionsolutions.com/)
 - [Debian - The Distro many others are based on including Ubuntu, Linux Mint, and Kali](https://www.debian.org/)
+- [Garuda  - A visualy awesome looking Arch based distro. Check out the KDE Dr460nized Edition!](https://garudalinux.org/index.html)
 ### Windows
 - [Windows 11 Developer VM](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
 ## Virtual Machine Hypervisors
@@ -77,6 +78,8 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [Have I Been Pwned - Have your Credentials Been Leaked?](https://haveibeenpwned.com/)
 - [Nonce - it's a funny word](https://csrc.nist.gov/glossary/term/nonce)
 - [Royalty free images - ya never know when you need to make a presentation!](https://pixabay.com)
+- [How to take screenshots on an Apple Mac](https://support.apple.com/en-us/HT201361)
+- [ARM Vs x86-64 - what is all this talk about CPU arctitectur](https://www.youtube.com/watch?v=AADZo73yrq4)
 
 
 ## Tools/Utilities
@@ -184,6 +187,7 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [What is a Subnet?](https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/)
 - [Subnetting Cheat Sheet](https://ipcisco.com/wp-content/uploads/Cheat-Sheets/subnetting-cheat-sheet.pdf) 
 - [Smart Draw - A good utility for creating network diagrams](https://cloud.smartdraw.com/)
+- [UFW Firewall help - IPtables is a good firewall but making the interaction less complicated is better for everyone](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)
 
 # Wireshark 🦈
 - [Wireshark's Official Introduction Doc](https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html)
@@ -196,6 +200,7 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 
 # Python 🐍
 ### Websites
+- [The PB&J Instructional Exercise - Computers are VERY literal and will do EXACTLY what you tell them](https://www.youtube.com/watch?v=Ct-lOOUqmyY)
 - [A History of Programming Languages](https://cs.brown.edu/~adf/programming_languages.html)
 - [Python Documentation](https://docs.python.org/3)
 - [The Zen of Python](https://peps.python.org/pep-0020/)
@@ -231,6 +236,8 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [Network Time Protocol (NTP) - Computerphile](https://www.youtube.com/watch?v=BAo5C2qbLq8)
 - [OSI Model](https://www.proofpoint.com/us/threat-reference/osi-model) 
 - [Public vs Private IPs](https://www.avast.com/c-ip-address-public-vs-private)
+- [HTTP Response Codes - I am a teapot 🫖 (look it up)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [OWASP Top 10 - This is a document listing the most common attacks happening on the web in the wild!](https://owasp.org/www-project-top-ten/)
 
 # Windows Administration 🪟
 - [Group Policy Architecture](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/policy/group-policy-architecture)
@@ -244,9 +251,12 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [WannaCry - Who doesn't like randsomeware](https://www.cisa.gov/sites/default/files/FactSheets/NCCIC%20ICS_FactSheet_WannaCry_Ransomware_S508C.pdf)
 - [Stuxnet - Centrifuges in Iraqi Nuclear power plant go Brrrrr... APT.. USA... They both have 3 letters.  ](https://spectrum.ieee.org/the-real-story-of-stuxnet)
 
+
 # Reconnaissance 🔭
 - [Computer Fraud and Abuse Act](https://www.justice.gov/jm/jm-9-48000-computer-fraud)
 - [GDPR](https://gdpr.eu/what-is-gdpr/)
+- [MITRE ATT&CK Framework - a framework for how attacks and red team activites are carried out](https://attack.mitre.org/)
+- [Lockheed Martin Cyber Kill Chain - a more simplified framework for cyberattacks](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 - [Whois - Online tool](https://whois.domaintools.com)
 - [Nmap Xmas Scan - It's the most alarming time of the year!](https://linuxhint.com/nmap_xmas_scan/)
 - [Spiderfoot - A OSINT collection tool](https://github.com/smicallef/spiderfoot)
