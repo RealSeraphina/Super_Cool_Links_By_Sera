@@ -351,6 +351,7 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [Risk - threat x vulnerability x probability of occurrence x impact)/controls in place](https://stateofsecurity.com/formula-for-calculating-cyber-risk/)
 - [NIST Risk Management Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/risk-assessment/tools)
 - [Threat Modeling - OWASP](https://owasp.org/www-community/Threat_Modeling_Process)
+- [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
 
 # Sera's Reading List 📚
 - The Art of Memory Forensics, 1st Ed. by Ligh et al. ISBN: 978-1118825099.
