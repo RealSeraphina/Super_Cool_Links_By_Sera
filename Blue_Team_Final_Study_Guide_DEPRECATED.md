@@ -1,8 +1,8 @@
 Blue Team FINAL Study Guide! (DEPRECATED)
 
 Be familiar with the following tools:
-	* nmap - https://nmap.org/book/man.html
-	* tcpdump - https://www.tcpdump.org/manpages/tcpdump.1.html
+	* [nmap](https://nmap.org/book/man.html)
+	* [tcpdump](https://www.tcpdump.org/manpages/tcpdump.1.html)
 	* Nessus - https://docs.tenable.com/nessus/10_4/Content/GetStarted.htm
 	* tshark - https://www.wireshark.org/docs/man-pages/tshark.html
 	* netflow - https://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-netflow/index.html
