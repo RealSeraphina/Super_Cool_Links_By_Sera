@@ -356,6 +356,8 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
 - [STRIDE - Microsoft Threat Model](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats)
 - [PASTA - A threat modeling framework](https://versprite.com/blog/what-is-pasta-threat-modeling/)
+- [Security Controls](https://www.f5.com/labs/learning-center/what-are-security-controls)
+- [Security Controls - Big Blue's (IBM) Definitions](https://www.ibm.com/topics/security-controls)
 
 # Sera's Reading List 📚
 - The Art of Memory Forensics, 1st Ed. by Ligh et al. ISBN: 978-1118825099.
