@@ -358,6 +358,7 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [PASTA - A threat modeling framework](https://versprite.com/blog/what-is-pasta-threat-modeling/)
 - [Security Controls](https://www.f5.com/labs/learning-center/what-are-security-controls)
 - [Security Controls - Big Blue's (IBM) Definitions](https://www.ibm.com/topics/security-controls)
+- [Writing Snort Rules](https://resources.infosecinstitute.com/topics/penetration-testing/snort-rules-workshop-part-one/)
 
 # Sera's Reading List 📚
 - The Art of Memory Forensics, 1st Ed. by Ligh et al. ISBN: 978-1118825099.
