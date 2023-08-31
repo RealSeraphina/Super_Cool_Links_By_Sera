@@ -181,6 +181,7 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [TCP 3-way Handshake](https://developer.mozilla.org/en-US/docs/Glossary/TCP_handshake)
 - [SYN Flood - A TCP DDOS Attack!](https://www.cloudflare.com/learning/ddos/syn-flood-ddos-attack/)
 - [TCP Vs UDP](https://www.diffen.com/difference/TCP_vs_UDP)
+- [W3 Internet Protocol Stack](https://www.w3.org/People/Frystyk/thesis/TcpIp.html)
 - [DNS Poisining - A Cool Attack that Exploits DNS Requests](https://www.okta.com/identity-101/dns-poisoning/)
 - [Private IP Ranges](https://www.ibm.com/docs/en/networkmanager/4.2.0?topic=translation-private-address-ranges) 
 - [What is a Port?](https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/)
