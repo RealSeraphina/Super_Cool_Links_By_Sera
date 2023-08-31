@@ -181,7 +181,6 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [TCP 3-way Handshake](https://developer.mozilla.org/en-US/docs/Glossary/TCP_handshake)
 - [SYN Flood - A TCP DDOS Attack!](https://www.cloudflare.com/learning/ddos/syn-flood-ddos-attack/)
 - [TCP Vs UDP](https://www.diffen.com/difference/TCP_vs_UDP)
-- [W3 Internet Protocol Stack](https://www.w3.org/People/Frystyk/thesis/TcpIp.html)
 - [DNS Poisining - A Cool Attack that Exploits DNS Requests](https://www.okta.com/identity-101/dns-poisoning/)
 - [Private IP Ranges](https://www.ibm.com/docs/en/networkmanager/4.2.0?topic=translation-private-address-ranges) 
 - [What is a Port?](https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/)
@@ -235,7 +234,8 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 # Web and Protocols 🌐
 - [DNS Record Types](https://www.cloudflare.com/learning/dns/dns-records/)
 - [Network Time Protocol (NTP) - Computerphile](https://www.youtube.com/watch?v=BAo5C2qbLq8)
-- [OSI Model](https://www.proofpoint.com/us/threat-reference/osi-model) 
+- [OSI Model](https://www.proofpoint.com/us/threat-reference/osi-model)
+- [W3 Internet Protocol Stack](https://www.w3.org/People/Frystyk/thesis/TcpIp.html)
 - [Public vs Private IPs](https://www.avast.com/c-ip-address-public-vs-private)
 - [HTTP Response Codes - I am a teapot 🫖 (look it up)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 - [OWASP Top 10 - This is a document listing the most common attacks happening on the web in the wild!](https://owasp.org/www-project-top-ten/)
