@@ -360,6 +360,11 @@ A collection of awesome links I've compiled. please report any link rot, thanks!
 - [Security Controls - Big Blue's (IBM) Definitions](https://www.ibm.com/topics/security-controls)
 - [Writing Snort Rules](https://resources.infosecinstitute.com/topics/penetration-testing/snort-rules-workshop-part-one/)
 
+# NIST - Recover
+- [Blameless PostMortems and a Just Culture](https://www.etsy.com/codeascraft/blameless-postmortems/)
+- [Why You Need a Postmortem Process](https://sysadvent.blogspot.com/2016/12/day-1-why-you-need-postmortem-process.html)
+- [Learning From Incidents - An excellent blog](https://www.learningfromincidents.io/blog)
+
 # Sera's Reading List 📚
 - The Art of Memory Forensics, 1st Ed. by Ligh et al. ISBN: 978-1118825099.
 - Reference: Digital Evidence and Computer Crime: Forensic Science, Computers and the Internet, 3rd Ed. by Casey. ISBN: 978-0123742681.
