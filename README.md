@@ -1,5 +1,5 @@
 # Super_Cool_Links_By_Sera
-A collection of awesome links I've compiled. please report any link rot, thanks!
+A collection of awesome links I've compiled. please report any link rot, typoes, etc. Thanks!
 
 # Take a Break (Sort Of)
 ### Youtube
