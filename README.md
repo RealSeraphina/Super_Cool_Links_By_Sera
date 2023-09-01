@@ -364,6 +364,8 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Blameless PostMortems and a Just Culture](https://www.etsy.com/codeascraft/blameless-postmortems/)
 - [Why You Need a Postmortem Process](https://sysadvent.blogspot.com/2016/12/day-1-why-you-need-postmortem-process.html)
 - [Learning From Incidents - An excellent blog](https://www.learningfromincidents.io/blog)
+- [Postmortem Templates](https://github.com/dastergon/postmortem-templates)
+- [Postmortem Examples](https://postmortems.app/)
 
 # Sera's Reading List 📚
 - The Art of Memory Forensics, 1st Ed. by Ligh et al. ISBN: 978-1118825099.
