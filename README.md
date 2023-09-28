@@ -52,7 +52,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [NetworkChuck's 2023 Breaking into Cybersecurity Roadmap](https://www.youtube.com/results?search_query=networkchuck+breaking+into+cyber)
 
 # What Do You Use? 
-## I get asked frequently what software/programs I use on my computer(s). I main Windows 11 Pro; here's my must have software:
+### I get asked frequently what software/programs I use on my computer(s). I main Windows 11 Pro; here's my must have software:
 - [LibreOffice - An Open Source Office Suite](https://www.libreoffice.org/)
 - [GIMP - Photoshop Alternative](https://www.gimp.org/)
 - [Inkscape - Drawing Tool For When I Feel Artsy](https://inkscape.org/)
