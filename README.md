@@ -54,6 +54,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 # What Do You Use? 
 ### I get asked frequently what software/programs I use on my computer(s). I main Windows 11 Pro; here's my must have software:
 - [LibreOffice - An Open Source Office Suite](https://www.libreoffice.org/)
+- [Sumatra PDF Reader - Small, Fast PDF Reader](https://www.sumatrapdfreader.org)
 - [GIMP - Photoshop Alternative](https://www.gimp.org/)
 - [Inkscape - Drawing Tool For When I Feel Artsy](https://inkscape.org/)
 - [Notepad++ - The Programmer's Notepad](https://notepad-plus-plus.org/)
