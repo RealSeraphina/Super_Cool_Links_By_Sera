@@ -51,6 +51,31 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Cybersecurity Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
 - [NetworkChuck's 2023 Breaking into Cybersecurity Roadmap](https://www.youtube.com/results?search_query=networkchuck+breaking+into+cyber)
 
+# What Do You Use? 
+## I get asked frequently what software/programs I use on my computer(s). I main Windows 11 Pro; here's my must have software:
+- [LibreOffice - An Open Source Office Suite](https://www.libreoffice.org/)
+- [GIMP - Photoshop Alternative](https://www.gimp.org/)
+- [Inkscape - Drawing Tool For When I Feel Artsy](https://inkscape.org/)
+- [Notepad++ - The Programmer's Notepad](https://notepad-plus-plus.org/)
+- [VS Code - My Favorite Intergrated Development Environment](https://code.visualstudio.com/)
+- [Windows Terminal... A Terminal For Windows... It's Good Trust Me Bro!](https://learn.microsoft.com/en-us/windows/terminal/install)
+- [Windows Subsystem For Linux (WSL) - Linux running on Windwos!](https://learn.microsoft.com/en-us/windows/wsl/install)
+- [Ubuntu Linux (WSL)](https://ubuntu.com/wsl)
+- [7-Zip - An Excellent Zip Archive Program (and Format)](https://7-zip.org/)
+- [Mozilla Firefox - My Favorite Web Browser and a Great Organization](https://www.mozilla.org/en-US/firefox/new/)
+- [Ublock Origin - Ad Blocker](https://ublockorigin.com)
+- [Privacy Badger - Tracker Blocker](https://privacybadger.org/)
+- [Dark Reader - Makes the Internet Dark Mode (the Correct Mode)](https://darkreader.org/)
+- [Brave - For Thos Times When I NEED a Chrominum Browser](https://brave.com/)
+- [Authy - 2FA](https://authy.com/)
+- [Bitwarden - Password Manager](https://bitwarden.com/)
+- [Private Internet Access - VPN](https://www.privateinternetaccess.com/)
+- [MEGA - Cloud Storage](https://mega.nz/)
+- [Proton Mail - Personal Email](https://proton.me/)
+- [VLC Media Player - A Cool Media Player That Can Also Live Stream on a LAN](https://www.videolan.org/vlc/)
+- [Foobar2000 - Music Player](https://www.foobar2000.org/)
+- [cmus - Music Player That Runs in a Terminal](https://cmus.github.io/#home)
+
 # Cyber Range 
 - [Sandboxing - I hate sand... It gets everywhere](https://www.spiceworks.com/it-security/cyber-risk-management/articles/what-is-sandboxing/) 
 ## Distros
