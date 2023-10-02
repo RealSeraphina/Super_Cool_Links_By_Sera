@@ -24,6 +24,8 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Network Chuck - another Cool IT Dude Who Really Likes Coffee](https://www.youtube.com/@NetworkChuck)
 - [Null Byte - Ethical Hacking](https://www.youtube.com/@NullByteWHT)
 - [Dave's Garage - Former Microsoft Employee with a lot of awesome knowlege](https://www.youtube.com/@DavesGarage)
+- [Danooct1 - Historical Malware Demos](https://www.youtube.com/@danooct1)
+  
 ### Websites
 - [XKCD - A webcomic of romance, sarcasm, math, and language.](https://xkcd.com/)
 - [XKCD - But With a CLI interface!](https://uni.xkcd.com/)
