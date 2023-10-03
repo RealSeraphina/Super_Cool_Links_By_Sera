@@ -1,0 +1,66 @@
+Important Linux Commands (in no special order):
+Navigation Commands:
+cd: Change directory
+cd ~/: Takes you to your home directory
+cd /: Takes you to the root directory
+cd ..: Moves you up one directory level
+cd ../../../: Moves you up multiple directory levels
+Listing Files:
+ls: List contents in a directory
+ls -a: Shows all files, including hidden ones
+ls -l: Displays files in a list format with additional information
+ls -la: Combines both -a and -l options to show detailed information of all files
+File and Directory Management:
+touch: Create a file
+touch myfile.txt: Creates a new file named myfile.txt
+mkdir: Makes a directory
+mkdir mydir: Creates a new directory named mydir
+rm: Removes a file
+rm myfile.txt: Deletes myfile.txt
+rm -rf mydir: Deletes mydir and its contents without confirmation
+rmdir: Deletes an empty directory
+rmdir mydir: Deletes mydir if it is empty
+mv: Moves or renames a file
+mv myfile.txt mydir/: Moves myfile.txt to the mydir directory
+mv oldname.txt newname.txt: Renames oldname.txt to newname.txt
+cp: Copies a file
+cp myfile.txt copyfile.txt: Copies myfile.txt to copyfile.txt
+Viewing File Content:
+cat: Display file content
+cat myfile.txt: Displays the content of myfile.txt
+more: Page through a file
+more longfile.txt: Allows you to page through longfile.txt
+less: Enhanced file paging with navigation and search
+less longfile.txt: Allows navigation and search within longfile.txt
+head: View the first few lines of a file
+head myfile.txt: Shows the first 10 lines of myfile.txt
+head -n 20 myfile.txt: Shows the first 20 lines
+tail: View the last few lines of a file
+tail myfile.txt: Shows the last 10 lines of myfile.txt
+tail -n 20 myfile.txt: Shows the last 20 lines
+Sorting and Searching:
+sort: Sort the content of a file
+sort myfile.txt: Sorts the lines of myfile.txt alphabetically
+sort -r myfile.txt: Sorts the lines in reverse order
+sort -n numbers.txt: Sorts the lines numerically
+locate: Find files by name
+locate myfile.txt: Finds all paths containing myfile.txt
+find: Search for files in a directory hierarchy
+find / -name myfile.txt: Finds all files named myfile.txt under the root directory
+find / -type d -name mydir: Finds all directories named mydir under the root directory
+Manual and Help:
+man: Manual for the command requested
+man cp: Displays the manual for the cp command with various options and usage examples
+man grep: Displays the manual for the grep command
+Miscellaneous:
+history: Shows history of commands run
+history: Displays the list of previously executed commands
+pwd: Print working directory
+pwd: Displays the current working directory path
+CTRL + c: Force quits out of a loop or frozen command
+clear: Clears your screen
+clear: Clears the terminal screen, making it clean
+file: Details on file type
+file myfile.txt: Displays the type of myfile.txt
+Note:
+Use q to quit from manual or file viewing commands like man, less, etc.
