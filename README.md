@@ -162,6 +162,8 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [BASH Vs. Z Shell](https://medium.com/@harrison.miller13_28580/bash-vs-z-shell-a-tale-of-two-command-line-shells-c65bb66e4658)
 - [YUM Vs. APT: What's the Difference? | phoenixNAP KB](https://phoenixnap.com/kb/yum-vs-apt)
 ![image](https://github.com/RealSeraphina/Super_Cool_Links_By_Sera/assets/29414918/3cf51739-abe7-435c-bf4f-2d90da860ead)
+![h1bdn7fgchf71](https://github.com/RealSeraphina/Super_Cool_Links_By_Sera/assets/29414918/763b8b99-ba32-44f7-9fbc-89b03fabc479)
+
 
 
 # Text Editing 📝
