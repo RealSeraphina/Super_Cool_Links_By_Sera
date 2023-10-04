@@ -371,6 +371,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Registry Hives - You though Hives Were For Bees?!?!🐝](https://learn.microsoft.com/en-us/windows/win32/sysinfo/registry-hives)
 - [Registry Analysis - BEES 🐝🐝🐝](http://what-when-how.com/windows-forensic-analysis/registry-analysis-windows-forensic-analysis-part-7/)
 - [Microsoft Registry Hives - Official Documentation](https://learn.microsoft.com/en-us/windows/win32/sysinfo/registry-hives)
+- [RegRipper - Report on Useful Artifacts in Registry Hives](https://github.com/keydet89/RegRipper3.0)
 ### How to write a Digital Forensics Report
 - [Writing DFIR Reports a Primer](https://www.forensicfocus.com/articles/writing-dfir-reports-a-primer/)
 - [Intro to Report Writing for Digital Forensics](https://www.sans.org/blog/intro-to-report-writing-for-digital-forensics/)
