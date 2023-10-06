@@ -189,6 +189,12 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Linux permissions: SUID, SGID, and sticky bit](https://www.redhat.com/sysadmin/suid-sgid-sticky-bit)
 - [Linux File Permissions: Understanding setuid, setgid, and the Sticky Bit](https://www.cbtnuggets.com/blog/technology/system-admin/linux-file-permissions-understanding-setuid-setgid-and-the-sticky-bit)
 
+# Package Management 📦
+- [APT - Ubuntu Documentation for the apt package manager](https://ubuntu.com/server/docs/package-management)
+- [Pacman - Arch Documentation for the pacman package manager](https://wiki.archlinux.org/title/Pacman)
+- [Brew - The missing package manager for Mac OS](https://brew.sh/)
+- [Windows Package Manager - Yuppers Windows has one too!](https://learn.microsoft.com/en-us/windows/package-manager/)
+
 # SSH 
 - [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
 - [The SCP Command](https://linuxhint.com/scp-command/)
