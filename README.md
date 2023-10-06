@@ -189,9 +189,29 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Linux permissions: SUID, SGID, and sticky bit](https://www.redhat.com/sysadmin/suid-sgid-sticky-bit)
 - [Linux File Permissions: Understanding setuid, setgid, and the Sticky Bit](https://www.cbtnuggets.com/blog/technology/system-admin/linux-file-permissions-understanding-setuid-setgid-and-the-sticky-bit)
 
-# Package Management 📦
+# Package Management 📦 
+### apt (Advanced Package Tool)
+- apt is a command-line interface for managing software on Debian and its derivatives (like Ubuntu).
 - [APT - Ubuntu Documentation for the apt package manager](https://ubuntu.com/server/docs/package-management)
+  
+Common uses:
+- `apt update`: Updates package lists from repositories.
+- `apt upgrade`: Upgrades all the installed packages.
+- `apt install [package-name]`: Installs a specified package.
+- `apt remove [package-name]`: Removes a package but retains its configuration files.
+- `apt purge [package-name]`: Removes a package including its configuration files.
+    
+### dpkg (Debian Package)
+- dpkg is a tool for managing individual `.deb` package files.
 - [APT Vs DPKG - apt is a management system and dpkg installs packages](https://www.makeuseof.com/apt-vs-dpkg/)
+  
+Common uses:
+- `dpkg -i [package-file.deb]`: Installs/Upgrades a package from its .deb file.
+- `dpkg -r [package-name]`: Removes a package but retains configuration files.
+- `dpkg -P [package-name]`: Purges a package completely.
+- `dpkg -l`: Lists all packages installed.
+
+### Other Package Mangers
 - [Pacman - Arch Documentation for the pacman package manager](https://wiki.archlinux.org/title/Pacman)
 - [Brew - The missing package manager for Mac OS](https://brew.sh/)
 - [Windows Package Manager - Yuppers Windows has one too!](https://learn.microsoft.com/en-us/windows/package-manager/)
@@ -321,7 +341,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [SQL Injection - An Introduction](https://portswigger.net/web-security/sql-injection)
 - [SQL Injection Cheat Sheet](https://pentestmonkey.net/category/cheat-sheet/sql-injection)
 
-# Passwors and Password Cracking
+# Passwords and Password Cracking
 - [Salt Your Passwords - A More Secure Way of generating password Hashes](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
 - [Pepper Your Passwords - Because they Shold be Well Seasoned!](https://bitwarden.com/blog/pepper-for-your-password)
 - [AI Password Cracking - Be Afraid! Be VERY Afraid! Or Eh Not So Much](https://arstechnica.com/information-technology/2023/04/the-passgan-ai-password-cracker-what-it-is-and-why-its-mostly-hype/) 
