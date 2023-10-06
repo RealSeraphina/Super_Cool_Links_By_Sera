@@ -191,6 +191,8 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 
 # Package Management 📦 
 
+Credit For this section in (large) part goes to [Networkmancer](https://github.com/Networkmancer)
+
 - [APT Vs DPKG - apt is a management system and dpkg installs packages](https://www.makeuseof.com/apt-vs-dpkg/)
   
 ### apt (Advanced Package Tool)
