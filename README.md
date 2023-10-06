@@ -190,6 +190,9 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Linux File Permissions: Understanding setuid, setgid, and the Sticky Bit](https://www.cbtnuggets.com/blog/technology/system-admin/linux-file-permissions-understanding-setuid-setgid-and-the-sticky-bit)
 
 # Package Management 📦 
+
+- [APT Vs DPKG - apt is a management system and dpkg installs packages](https://www.makeuseof.com/apt-vs-dpkg/)
+  
 ### apt (Advanced Package Tool)
 - apt is a command-line interface for managing software on Debian and its derivatives (like Ubuntu).
 - [APT - Ubuntu Documentation for the apt package manager](https://ubuntu.com/server/docs/package-management)
@@ -203,7 +206,7 @@ Common uses:
     
 ### dpkg (Debian Package)
 - dpkg is a tool for managing individual `.deb` package files.
-- [APT Vs DPKG - apt is a management system and dpkg installs packages](https://www.makeuseof.com/apt-vs-dpkg/)
+- [dpkg Technical Documentation](https://www.dpkg.org/)
   
 Common uses:
 - `dpkg -i [package-file.deb]`: Installs/Upgrades a package from its .deb file.
