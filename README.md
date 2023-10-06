@@ -191,6 +191,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 
 # Package Management 📦
 - [APT - Ubuntu Documentation for the apt package manager](https://ubuntu.com/server/docs/package-management)
+- [APT Vs DPKG - apt is a management system and dpkg installs packages](https://www.makeuseof.com/apt-vs-dpkg/)
 - [Pacman - Arch Documentation for the pacman package manager](https://wiki.archlinux.org/title/Pacman)
 - [Brew - The missing package manager for Mac OS](https://brew.sh/)
 - [Windows Package Manager - Yuppers Windows has one too!](https://learn.microsoft.com/en-us/windows/package-manager/)
