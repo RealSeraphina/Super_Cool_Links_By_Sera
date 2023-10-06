@@ -196,7 +196,7 @@ Credit For this section in (large) part goes to [Networkmancer](https://github.c
 - [APT Vs DPKG - apt is a management system and dpkg installs packages](https://www.makeuseof.com/apt-vs-dpkg/)
   
 ### apt (Advanced Package Tool)
-- apt is a command-line interface for managing software on Debian and its derivatives (like Ubuntu).
+- `apt` is a command-line interface for managing software on Debian and its derivatives (like Ubuntu).
 - [APT - Ubuntu Documentation for the apt package manager](https://ubuntu.com/server/docs/package-management)
   
 Common uses:
@@ -205,9 +205,10 @@ Common uses:
 - `apt install [package-name]`: Installs a specified package.
 - `apt remove [package-name]`: Removes a package but retains its configuration files.
 - `apt purge [package-name]`: Removes a package including its configuration files.
+- `apt search [package-name]`: Searches repositories for a pacage matching the provided name. 
     
 ### dpkg (Debian Package)
-- dpkg is a tool for managing individual `.deb` package files.
+- `dpkg` is a tool for managing individual `.deb` package files.
 - [dpkg Technical Documentation](https://www.dpkg.org/)
   
 Common uses:
