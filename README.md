@@ -69,7 +69,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Ublock Origin - Ad Blocker](https://ublockorigin.com)
 - [Privacy Badger - Tracker Blocker](https://privacybadger.org/)
 - [Dark Reader - Makes the Internet Dark Mode (the Correct Mode)](https://darkreader.org/)
-- [Brave - For Thos Times When I NEED a Chrominum Browser](https://brave.com/)
+- [Brave - For Those Times When I NEED a Chrominum Browser](https://brave.com/)
 - [Authy - 2FA](https://authy.com/)
 - [Bitwarden - Password Manager](https://bitwarden.com/)
 - [Private Internet Access - VPN](https://www.privateinternetaccess.com/)
