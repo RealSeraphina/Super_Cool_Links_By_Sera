@@ -272,6 +272,7 @@ Common uses:
 - [PEP 8 – Style Guide for Python Code | peps.python.org](https://peps.python.org/pep-0008/#whitespace-in-expressions-and-statements)
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [Why do datatypes even exist?](https://cis.msjc.edu/tutorials/Programming/DataTypes/)
+- [Converting Data Types - I will cast you as a string and you as a float!](https://www.digitalocean.com/community/tutorials/how-to-convert-data-types-in-python-3)
 - [String Methods](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-strings/cheatsheet)
 - [String Cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/manipulating-strings)
 - [Python String Methods](https://www.w3schools.com/python/python_ref_string.asp)
