@@ -53,6 +53,10 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Cybersecurity Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
 - [NetworkChuck's 2023 Breaking into Cybersecurity Roadmap](https://www.youtube.com/results?search_query=networkchuck+breaking+into+cyber)
 
+  ### Certification Exam Study 📝
+  - [Security+ - Professor Messer](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/)
+  - [Security+ - Jason Dion, I really like his style, but I am not a fan of Udemy's sales tatics. Never pay the full price on Udemy. You should see the course for under $20](https://www.udemy.com/course/securityplus/)
+
 # What Do You Use? 
 ### I get asked frequently what software/programs I use on my computer(s). I main Windows 11 Pro; here's my must have software:
 - [LibreOffice - An Open Source Office Suite](https://www.libreoffice.org/)
