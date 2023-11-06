@@ -311,6 +311,8 @@ Common uses:
 - [OWASP Top 10 - This is a document listing the most common attacks happening on the web in the wild!](https://owasp.org/www-project-top-ten/)
 
 # Windows Administration 🪟
+- [Using Net User to add users](https://www.windows-commandline.com/add-user-from-command-line/)
+- [Managing Accounts with Net User](https://lazyadmin.nl/it/net-user-command/)
 - [Group Policy Architecture](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/policy/group-policy-architecture)
 - [Remotly Install Software Via Group Policy](https://learn.microsoft.com/en-us/troubleshoot/windows-server/group-policy/use-group-policy-to-install-software)
 - [A Better Control Panel Using "God Mode"](https://answers.microsoft.com/en-us/insider/forum/all/god-mode-other-windows-10-tips-tricks/9e81e023-9179-4b59-9937-f1e9aab537b4)
