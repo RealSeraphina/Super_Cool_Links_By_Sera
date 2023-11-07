@@ -320,6 +320,7 @@ Common uses:
 - [LDAP Vs. Active Directory](https://www.okta.com/identity-101/ldap-vs-active-directory/)
 - [Detecting and Preventing LSASS Credential Dumping](https://www.microsoft.com/en-us/security/blog/2022/10/05/detecting-and-preventing-lsass-credential-dumping-attacks/)
 - [Search EventLog With PowerShell](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-eventlog?view=powershell-5.1)
+- [Introduction to Scripting in PowerShell](https://learn.microsoft.com/en-us/training/modules/script-with-powershell/)
 
 # Infamous Hacks / Attacks 🧑‍💻
 - [WannaCry - Who doesn't like randsomeware](https://www.cisa.gov/sites/default/files/FactSheets/NCCIC%20ICS_FactSheet_WannaCry_Ransomware_S508C.pdf)
