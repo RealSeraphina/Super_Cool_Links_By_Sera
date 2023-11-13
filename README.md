@@ -358,7 +358,7 @@ Common uses:
 - [SQL Injection Cheat Sheet](https://pentestmonkey.net/category/cheat-sheet/sql-injection)
 - [NOSQL Injection - For when the DB isn't a SQL DB](https://portswigger.net/web-security/nosql-injection)
 - [RESTful API - Web Requests](https://aws.amazon.com/what-is/restful-api/)
-- [Whis is Cross Site Scripting NOT called CSS, but xss?](https://www.w3.org/TR/CSS/#css)
+- [Why is Cross Site Scripting NOT called CSS, but XSS?](https://www.w3.org/TR/CSS/#css)
 - [Watch a hacker use Brupsuit](https://www.youtube.com/watch?v=fbgt4YJg_Kk)
 - [Juice Shop is a modern web app you can hack after you pwn DVWA](https://owasp.org/www-project-juice-shop/)
 
