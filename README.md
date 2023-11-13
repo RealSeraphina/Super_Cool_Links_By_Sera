@@ -352,6 +352,7 @@ Common uses:
 
 # Web Vulnerabilities 🕸️
 - [OWASP Top 10](https://owasp.org/Top10/)
+- [OWASP Top 10 Explinations](https://www.hacksplaining.com/owasp)
 - [What is DOM?](https://www.w3schools.com/js/js_htmldom.asp)
 - [XXS Worm - Sammy wants to be your MySpace friend](https://samy.pl/myspace/)
 - [Primer on Predicate Logic - This is NOT something we are directly exploring, but a surprising amount of people have asked about Predicate Logic and its relation to SQL](https://courses.cs.washington.edu/courses/cse344/15wi/lectures/query-language-primer.pdf)
