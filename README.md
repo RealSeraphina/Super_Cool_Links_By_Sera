@@ -120,8 +120,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Cyber Chef - A Tool For Decoding Encoded Data Courtesy of British Intelligence!](https://gchq.github.io/CyberChef/)
 - [O.MG Cable - A USB cable that can execute scripts.](https://shop.hak5.org/products/omg-cable)
 - [Password Monster - Check your password strength.](https://www.passwordmonster.com/)
-- 
-
+  
 # CTF/Extra Practice 🏴
 - [Bandit Over The Wire](https://overthewire.org/)
 - [Hacking Training For The Best](https://www.hackthebox.com/)
@@ -361,6 +360,7 @@ Common uses:
 - [RESTful API - Web Requests](https://aws.amazon.com/what-is/restful-api/)
 - [Whis is Cross Site Scripting NOT called CSS, but xss?](https://www.w3.org/TR/CSS/#css)
 - [Watch a hacker use Brupsuit](https://www.youtube.com/watch?v=fbgt4YJg_Kk)
+- [Juice Shop is a modern web app you can hack after you pwn DVWA](https://owasp.org/www-project-juice-shop/)
 
 # Passwords and Password Cracking
 - [Salt Your Passwords - A More Secure Way of generating password Hashes](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
