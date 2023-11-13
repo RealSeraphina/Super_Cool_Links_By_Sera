@@ -332,6 +332,7 @@ Common uses:
 # Reconnaissance 🔭
 - [Computer Fraud and Abuse Act](https://www.justice.gov/jm/jm-9-48000-computer-fraud)
 - [GDPR](https://gdpr.eu/what-is-gdpr/)
+- [See Cyber Attacks in Real Time](https://cybermap.kaspersky.com/)
 - [MITRE ATT&CK Framework - a framework for how attacks and red team activites are carried out](https://attack.mitre.org/)
 - [Lockheed Martin Cyber Kill Chain - a more simplified framework for cyberattacks](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 - [Whois - Online tool](https://whois.domaintools.com)
