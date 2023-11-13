@@ -357,6 +357,7 @@ Common uses:
 - [Primer on Predicate Logic - This is NOT something we are directly exploring, but a surprising amount of people have asked about Predicate Logic and its relation to SQL](https://courses.cs.washington.edu/courses/cse344/15wi/lectures/query-language-primer.pdf)
 - [SQL Injection - An Introduction](https://portswigger.net/web-security/sql-injection)
 - [SQL Injection Cheat Sheet](https://pentestmonkey.net/category/cheat-sheet/sql-injection)
+- [NOSQL Injection - For when the DB isn't a SQL DB](https://portswigger.net/web-security/nosql-injection)
 - [RESTful API - Web Requests](https://aws.amazon.com/what-is/restful-api/)
 - [Whis is Cross Site Scripting NOT called CSS, but xss?](https://www.w3.org/TR/CSS/#css)
 - [Watch a hacker use Brupsuit](https://www.youtube.com/watch?v=fbgt4YJg_Kk)
