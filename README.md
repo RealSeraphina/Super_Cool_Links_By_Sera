@@ -350,13 +350,14 @@ Common uses:
 ### People
 - [Edward Snowden - Maybe pay attention to the guy in the weird hoodie](https://intelligence.house.gov/uploadedfiles/snowden_report_highlights.pdf)
 
-# Web Vulnerabilities 
+# Web Vulnerabilities 🕸️
 - [OWASP Top 10](https://owasp.org/Top10/)
 - [What is DOM?](https://www.w3schools.com/js/js_htmldom.asp)
 - [XXS Worm - Sammy wants to be your MySpace friend](https://samy.pl/myspace/)
 - [Primer on Predicate Logic - This is NOT something we are directly exploring, but a surprising amount of people have asked about Predicate Logic and its relation to SQL](https://courses.cs.washington.edu/courses/cse344/15wi/lectures/query-language-primer.pdf)
 - [SQL Injection - An Introduction](https://portswigger.net/web-security/sql-injection)
 - [SQL Injection Cheat Sheet](https://pentestmonkey.net/category/cheat-sheet/sql-injection)
+- [RESTful API - Web Requests](https://aws.amazon.com/what-is/restful-api/)
 
 # Passwords and Password Cracking
 - [Salt Your Passwords - A More Secure Way of generating password Hashes](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
