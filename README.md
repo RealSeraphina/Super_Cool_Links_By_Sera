@@ -358,6 +358,7 @@ Common uses:
 - [SQL Injection - An Introduction](https://portswigger.net/web-security/sql-injection)
 - [SQL Injection Cheat Sheet](https://pentestmonkey.net/category/cheat-sheet/sql-injection)
 - [RESTful API - Web Requests](https://aws.amazon.com/what-is/restful-api/)
+- [Whis is Cross Site Scripting NOT called CSS, but xss?](https://www.w3.org/TR/CSS/#css)
 
 # Passwords and Password Cracking
 - [Salt Your Passwords - A More Secure Way of generating password Hashes](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
