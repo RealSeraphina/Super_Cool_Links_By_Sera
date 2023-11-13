@@ -379,6 +379,7 @@ Common uses:
 - [ELF File Format - This is the Executable File Format for Linux](https://www.ics.uci.edu/~aburtsev/238P/hw/hw3-elf/hw3-elf.html)
 - [PE File Format - This is the Executable File Format for Windows](https://learn.microsoft.com/en-us/windows/win32/debug/pe-format)
 - [The 6 Principles of Social Engineering](https://www.cde.state.co.us/dataprivacyandsecurity/socialengineeringeducation)
+- [The psychology of social engineering - Microsoft](https://www.microsoft.com/en-us/security/blog/2020/06/30/psychology-social-engineering-soft-side-cybercrime/)
 - [Bind Vs. Reverse Shell](https://medium.com/@PenTest_duck/bind-vs-reverse-vs-encrypted-shells-what-should-you-use-6ead1d947aa9)
 
 # Metasploit and Exploits 💣
