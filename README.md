@@ -120,6 +120,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Cyber Chef - A Tool For Decoding Encoded Data Courtesy of British Intelligence!](https://gchq.github.io/CyberChef/)
 - [O.MG Cable - A USB cable that can execute scripts.](https://shop.hak5.org/products/omg-cable)
 - [Password Monster - Check your password strength.](https://www.passwordmonster.com/)
+- [Online Tools For Checking Potentially Malicious Websites](https://zeltser.com/lookup-malicious-websites/)
   
 # CTF/Extra Practice 🏴
 - [Bandit Over The Wire](https://overthewire.org/)
