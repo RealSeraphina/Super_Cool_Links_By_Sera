@@ -112,6 +112,8 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Royalty free images - ya never know when you need to make a presentation!](https://pixabay.com)
 - [How to take screenshots on an Apple Mac](https://support.apple.com/en-us/HT201361)
 - [ARM Vs x86-64 - what is all this talk about CPU arctitectur](https://www.youtube.com/watch?v=AADZo73yrq4)
+- ![image](https://github.com/RealSeraphina/Super_Cool_Links_By_Sera/assets/29414918/82510fe6-de90-4c32-99e2-e3559557fee8)
+
 
 
 ## Tools/Utilities
