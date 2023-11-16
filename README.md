@@ -388,6 +388,7 @@ Common uses:
 - [EternalBlue - SMB Vaulneribilities Strike Hard!](https://www.avast.com/c-eternalblue)
 - [MSFVenom Official Documentation](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html)
 - [Metasploit Official Documentation](https://docs.metasploit.com/)
+- [MSFVenom Cheatsheet](https://infinitelogins.com/2020/01/25/msfvenom-reverse-shell-payload-cheatsheet/)
 - [Safe, Reliable, Hashdumping](https://www.rapid7.com/blog/post/2010/01/01/safe-reliable-hash-dumping/) 
 - [Linux Privillage Checker - A cool post-exploit reconnonissance script](https://github.com/cervoise/linuxprivcheck)
 - [Using private key to SSH](https://knowledge.informatica.com/s/article/520984?language=en_US) 
