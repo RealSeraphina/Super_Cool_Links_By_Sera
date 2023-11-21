@@ -126,8 +126,8 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
   
 # CTF/Extra Practice 🏴
 - [Bandit Over The Wire](https://overthewire.org/)
-- [Hacking Training For The Best](https://www.hackthebox.com/)
-- [TryHackMe | Cyber Security Training](https://tryhackme.com/)
+- [Hack The Box - Hacking Training For The Best](https://www.hackthebox.com/)
+- [TryHackMe - Cyber Security Training](https://tryhackme.com/)
 - [CTF Time](https://ctftime.org/ctfs)
 - [picoCTF - CMU Cybersecurity Competition](https://picoctf.org/)
 - [Cipher Tech Women & Minorities Online Challenge | Cyber Skyline](https://cyberskyline.com/events/cipher-tech-women-minorities-online-challenge)
