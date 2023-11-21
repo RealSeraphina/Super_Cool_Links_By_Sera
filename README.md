@@ -365,6 +365,7 @@ Common uses:
 - [RESTful API - Web Requests](https://aws.amazon.com/what-is/restful-api/)
 - [Why is Cross Site Scripting NOT called CSS, but XSS?](https://www.w3.org/TR/CSS/#css)
 - [Watch a hacker use Brupsuit](https://www.youtube.com/watch?v=fbgt4YJg_Kk)
+- [Google Gruyere - A Web App You Can Hack... Get It Gruyere Has Holes... Like This App's Security](https://google-gruyere.appspot.com/)
 - [Juice Shop is a modern web app you can hack after you pwn DVWA](https://owasp.org/www-project-juice-shop/)
 
 # Passwords and Password Cracking
