@@ -438,7 +438,8 @@ Common uses:
 - [Rhino Hunt - Answer the questions and see if there is evidence of illegal activity!](https://cfreds-archive.nist.gov/dfrws/Rhino_Hunt.html)
 
 # NIST Cybersecurity Framework and Risk Management Framework
-- [Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [Mitre d3fend Framework - Another Framework For Blue Team Operations](https://d3fend.mitre.org/)
 - [Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf)
 - [Risk - threat x vulnerability x probability of occurrence x impact)/controls in place](https://stateofsecurity.com/formula-for-calculating-cyber-risk/)
 - [NIST Risk Management Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/risk-assessment/tools)
