@@ -245,6 +245,7 @@ Common uses:
 - [For Loops](https://www.cyberciti.biz/faq/bash-for-loop/)
 - [Validate User Input](https://blog.eduonix.com/shell-scripting/learn-validating-user-input-in-linux-shell-scripting/)
 - [Break Your Terminal with a Fork Bomb DOS Attack!](https://www.cyberciti.biz/faq/understanding-bash-fork-bomb/)
+- [Shell Check - Helps figure out what's wrong with your script!](https://www.shellcheck.net/)
 
 # Networking
 - [Smart Draw - Create Network Diagrams](https://www.smartdraw.com/)
