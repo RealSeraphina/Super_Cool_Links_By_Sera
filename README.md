@@ -269,6 +269,7 @@ Common uses:
 - [Another Introduction to Wireshark](https://www.redhat.com/sysadmin/introduction-wireshark)
 - [Some Useful Cheat Sheets](https://packetlife.net/library/cheat-sheets/)
 - [Cheat Sheet!](https://www.stationx.net/wireshark-cheat-sheet/)
+- [MAC Address OUI Lookup - Find the Manufacturer of Network Devices](https://www.wireshark.org/tools/oui-lookup.html)
   ![1698398221297](https://github.com/RealSeraphina/Super_Cool_Links_By_Sera/assets/29414918/b753053a-6688-4ff3-bb18-f39fb6d11df8)
 
 
