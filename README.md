@@ -278,7 +278,7 @@ Common uses:
 - [Get info about IPs, CVEs, and a lot more! - Grey Noise](https://viz.greynoise.io/)
 - [Open Threat Exchange, Get More Information About Potiential Threats - Alienvault OTX](https://otx.alienvault.com/)
 - [Defense In Depth Explained](https://www.youtube.com/watch?v=hQXvsfoEhfg)
-- [Defens In Depth is like an Onion... - I'll Let Orcle Explain](https://www.ateam-oracle.com/post/security-layers-of-defense)
+- [Defens In Depth is like an Onion... - I'll Let Oracle Explain](https://www.ateam-oracle.com/post/security-layers-of-defense)
 
 # Git / Repositories 
 - [Git Functions Explained With Cats! - ᓚᘏᗢ](https://girliemac.com/blog/2017/12/26/git-purr/)
