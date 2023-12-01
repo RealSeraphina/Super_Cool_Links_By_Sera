@@ -25,6 +25,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Null Byte - Ethical Hacking](https://www.youtube.com/@NullByteWHT)
 - [Dave's Garage - Former Microsoft Employee with a lot of awesome knowlege](https://www.youtube.com/@DavesGarage)
 - [Danooct1 - Historical Malware Demos](https://www.youtube.com/@danooct1)
+- [Exabeam - A SIEM Product, But Their Channel Has Some Good Videos!](https://www.youtube.com/@ExabeamSIEM)
   
 ### Websites
 - [XKCD - A webcomic of romance, sarcasm, math, and language.](https://xkcd.com/)
@@ -276,6 +277,7 @@ Common uses:
 # Firwalls and Network Security 🔥🧱
 - [Get info about IPs, CVEs, and a lot more! - Grey Noise](https://viz.greynoise.io/)
 - [Open Threat Exchange, Get More Information About Potiential Threats - Alienvault OTX](https://otx.alienvault.com/)
+- [Defense In Depth Explained](https://www.youtube.com/watch?v=hQXvsfoEhfg)
 
 # Git / Repositories 
 - [Git Functions Explained With Cats! - ᓚᘏᗢ](https://girliemac.com/blog/2017/12/26/git-purr/)
