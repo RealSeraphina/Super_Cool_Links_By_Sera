@@ -133,7 +133,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [picoCTF - CMU Cybersecurity Competition](https://picoctf.org/)
 - [Cipher Tech Women & Minorities Online Challenge | Cyber Skyline](https://cyberskyline.com/events/cipher-tech-women-minorities-online-challenge)
 - [Python Challenges](https://edabit.com/challenges)
-- [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive)
+- [Google Code Jam](https://zibada.guru/gcj/)
 - [Cyber Defenders - Blue Team CTF Challenges](https://cyberdefenders.org/blueteam-ctf-challenges/)
 - [BASH Scripting Challenges!](https://www.hackerrank.com/domains/shell) 
 - [SANS Holiday Hack Challenge - Fun Cybersecurity Practice](https://www.sans.org/mlp/holiday-hack-challenge/)
