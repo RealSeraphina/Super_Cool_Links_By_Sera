@@ -298,6 +298,7 @@ Common uses:
 - [String Methods](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-strings/cheatsheet)
 - [String Cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/manipulating-strings)
 - [Python String Methods](https://www.w3schools.com/python/python_ref_string.asp)
+- [Need to Save Parts of an Object Into Multiple Variables?... Like Words in a String? Try Destructuring!](https://blog.teclado.com/destructuring-in-python/)
 - [Python List Methods](https://learnpython.com/blog/python-list-methods/)
 - [List methods in Python](https://www.geeksforgeeks.org/list-methods-in-python/?id=discuss)
 - [Python - List Methods](https://www.w3schools.com/python/python_lists_methods.asp)
