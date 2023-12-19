@@ -342,7 +342,7 @@ Common uses:
 - [Introduction to Scripting in PowerShell](https://learn.microsoft.com/en-us/training/modules/script-with-powershell/)
 
 # Infamous Hacks / Attacks 🧑‍💻
-- [WannaCry - Who doesn't like randsomeware](https://www.cisa.gov/sites/default/files/FactSheets/NCCIC%20ICS_FactSheet_WannaCry_Ransomware_S508C.pdf)
+- [WannaCry - Who doesn't like ransomware](https://www.cisa.gov/sites/default/files/FactSheets/NCCIC%20ICS_FactSheet_WannaCry_Ransomware_S508C.pdf)
 - [Stuxnet - Centrifuges in Iraqi Nuclear power plant go Brrrrr... APT.. USA... They both have 3 letters.  ](https://spectrum.ieee.org/the-real-story-of-stuxnet)
 
 
