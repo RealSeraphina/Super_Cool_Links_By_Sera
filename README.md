@@ -172,7 +172,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 ![image](https://github.com/RealSeraphina/Super_Cool_Links_By_Sera/assets/29414918/3cf51739-abe7-435c-bf4f-2d90da860ead)
 ![h1bdn7fgchf71](https://github.com/RealSeraphina/Super_Cool_Links_By_Sera/assets/29414918/763b8b99-ba32-44f7-9fbc-89b03fabc479)
 
-# User Management
+# User Management 👥
 - [How to change user password](https://linuxize.com/post/how-to-change-user-password-in-linux/)
 
 # Text Editing 📝
