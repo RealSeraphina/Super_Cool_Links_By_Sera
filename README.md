@@ -191,7 +191,8 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [ZIP - In depth](https://docs.fileformat.com/compression/zip/)
 
 # Linux Permissions
-- [Chmod Calculator | Chmod Generator | Chmod Command](https://chmodcommand.com/)
+- [☠️As of 01/17/2023 this link is dead. Will check again☠️Chmod Calculator | Chmod Generator | Chmod Command](https://chmodcommand.com/)
+- [Chmod Calculator | OMNI Calculator - Advanced Mode has special permissions](https://www.omnicalculator.com/other/chmod)
 - [Linux File Permissions Cheat Sheet](https://www.psychz.net/client/kb/en/linux-file-permissions-cheat-sheet.html)
 - [Unix File Permissions](https://kapeli.com/cheat_sheets/Unix_File_Permissions.docset/Contents/Resources/Documents/index)
 - [What is SUID, SGID and Sticky bit](https://www.thegeekdiary.com/what-is-suid-sgid-and-sticky-bit/)
