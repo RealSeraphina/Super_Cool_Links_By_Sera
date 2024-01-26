@@ -270,6 +270,7 @@ Common uses:
 # Wireshark 🦈
 - [Wireshark's Official Introduction Doc](https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html)
 - [Another Introduction to Wireshark](https://www.redhat.com/sysadmin/introduction-wireshark)
+- [Yet, Another Introduction to Wireshark!](https://www.techsolveprac.com/introduction-to-wireshark/)
 - [Some Useful Cheat Sheets](https://packetlife.net/library/cheat-sheets/)
 - [Cheat Sheet!](https://www.stationx.net/wireshark-cheat-sheet/)
 - [MAC Address OUI Lookup - Find the Manufacturer of Network Devices](https://www.wireshark.org/tools/oui-lookup.html)
