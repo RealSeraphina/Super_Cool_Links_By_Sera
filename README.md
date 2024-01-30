@@ -282,6 +282,7 @@ Common uses:
 - [Uncomplicated Firewall (UFW) - It's a Firewall that Uncomplicated...](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)
 - [UFW Official Documentation](https://help.ubuntu.com/community/UFW)
 - [pfsense Firewall Download - It's free why not play with the Community Edition?](https://www.pfsense.org/download/)
+- [lnav - A great way to view logs! 🪵](https://lnav.org/)
 - [Get info about IPs, CVEs, and a lot more! - Grey Noise](https://viz.greynoise.io/)
 - [Open Threat Exchange, Get More Information About Potiential Threats - Alienvault OTX](https://otx.alienvault.com/)
 - [Check an IP to see If It's A Known Malicious Server](https://www.abuseipdb.com/)
