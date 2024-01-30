@@ -289,6 +289,9 @@ Common uses:
 - [Defense In Depth Explained](https://www.youtube.com/watch?v=hQXvsfoEhfg)
 - [Defens In Depth is like an Onion... - I'll Let Oracle Explain](https://www.ateam-oracle.com/post/security-layers-of-defense)
 
+# WIFI 📶
+- [Wigle - See networks that have been discovered](https://www.wigle.net/)
+
 # Git / Repositories 
 - [Git Functions Explained With Cats! - ᓚᘏᗢ](https://girliemac.com/blog/2017/12/26/git-purr/)
 - [Github Private/Public Key Setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
