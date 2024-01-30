@@ -332,6 +332,7 @@ Common uses:
 - [HTTP Response Codes - I am a teapot 🫖 (look it up)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 - [OWASP Top 10 - This is a document listing the most common attacks happening on the web in the wild!](https://owasp.org/www-project-top-ten/)
 - [What is a Port?](https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/)
+- [Transport Layer Security (TLS) - It adds the "S" in HTTPS](https://developer.mozilla.org/en-US/docs/Web/Security/Transport_Layer_Security)
 
 # Windows Administration 🪟
 - [Using Net User to add users](https://www.windows-commandline.com/add-user-from-command-line/)
