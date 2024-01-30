@@ -278,6 +278,7 @@ Common uses:
   ![1698398221297](https://github.com/RealSeraphina/Super_Cool_Links_By_Sera/assets/29414918/b753053a-6688-4ff3-bb18-f39fb6d11df8)
 
 # Firwalls and Defense In Depth 🔥🧱
+- [What is a Port?](https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/)
 - [Get info about IPs, CVEs, and a lot more! - Grey Noise](https://viz.greynoise.io/)
 - [Open Threat Exchange, Get More Information About Potiential Threats - Alienvault OTX](https://otx.alienvault.com/)
 - [Check an IP to see If It's A Known Malicious Server](https://www.abuseipdb.com/)
@@ -331,7 +332,6 @@ Common uses:
 - [Public vs Private IPs](https://www.avast.com/c-ip-address-public-vs-private)
 - [HTTP Response Codes - I am a teapot 🫖 (look it up)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 - [OWASP Top 10 - This is a document listing the most common attacks happening on the web in the wild!](https://owasp.org/www-project-top-ten/)
-- [What is a Port?](https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/)
 - [Transport Layer Security (TLS) - It puts the "S" in HTTPS](https://developer.mozilla.org/en-US/docs/Web/Security/Transport_Layer_Security)
 
 # Windows Administration 🪟
