@@ -279,6 +279,7 @@ Common uses:
 
 # Firwalls and Defense In Depth 🔥🧱
 - [What is a Port?](https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/)
+- [Uncomplicated Firewall (UFW) - It's a Firewall that Uncomplicated...](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)
 - [Get info about IPs, CVEs, and a lot more! - Grey Noise](https://viz.greynoise.io/)
 - [Open Threat Exchange, Get More Information About Potiential Threats - Alienvault OTX](https://otx.alienvault.com/)
 - [Check an IP to see If It's A Known Malicious Server](https://www.abuseipdb.com/)
