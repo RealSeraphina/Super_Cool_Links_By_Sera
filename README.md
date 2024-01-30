@@ -291,6 +291,7 @@ Common uses:
 
 # WIFI 📶
 - [Wigle - See networks that have been discovered](https://www.wigle.net/)
+- [2.4Ghz Vs 5Ghz Vs 6Ghz and why it matters](https://www.intel.com/content/www/us/en/products/docs/wireless/2-4-vs-5ghz.html)
 
 # Git / Repositories 
 - [Git Functions Explained With Cats! - ᓚᘏᗢ](https://girliemac.com/blog/2017/12/26/git-purr/)
