@@ -303,6 +303,7 @@ Common uses:
 - [A History of Programming Languages](https://cs.brown.edu/~adf/programming_languages.html)
 - [Python Documentation](https://docs.python.org/3)
 - [The Zen of Python](https://peps.python.org/pep-0020/)
+- [Python Tutorial](https://www.tutorialspoint.com/python/index.htm)
 - [PEP 8 – Style Guide for Python Code | peps.python.org](https://peps.python.org/pep-0008/#whitespace-in-expressions-and-statements)
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [Why do datatypes even exist?](https://cis.msjc.edu/tutorials/Programming/DataTypes/)
