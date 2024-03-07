@@ -433,6 +433,7 @@ Common uses:
 
 # SIEMs (Splunk)
 - [Intro to Splunk](https://www.youtube.com/watch?v=mSQPYRihajw)
+- [Splunk Basic Searching](https://www.tutorialspoint.com/splunk/splunk_basic_searching.htm)
 - [Splunk Documentation](https://docs.splunk.com/Documentation/ES)
 - [WAZUH - A free SIEM!](https://wazuh.com/)
 
