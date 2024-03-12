@@ -451,6 +451,7 @@ Common uses:
 - [Notepad++ - My Favorite Windows Based Text Editor](https://notepad-plus-plus.org/)
 - [Binary Ninja - My Hex Editors of Choice](https://binary.ninja/demo/)  
 - [XXD - CLI Hex Editor](https://linux.die.net/man/1/xxd)
+- [Hexcurse - I like this CLI Hex Editor Better Than XXD](https://packages.debian.org/buster/utils/hexcurse)
 - [Ghidra - reverse engineering tool created by the NSA](https://ghidra-sre.org/)
 - [IDA-pro - widely used reverse engineering software](https://hex-rays.com/IDA-pro/)
 ### Cheat Sheets
