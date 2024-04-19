@@ -55,7 +55,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [NetworkChuck's 2023 Breaking into Cybersecurity Roadmap](https://www.youtube.com/results?search_query=networkchuck+breaking+into+cyber)
 
 ### Certification Exam Study 📝
-  - [Security+ - Professor Messer](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/)
+  - [Security+ - Professor Messer](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)
   - [Security+ - Jason Dion, I really like his style, but I am not a fan of Udemy's sales tatics. Never pay the full price on Udemy. You should see the course for under $20](https://www.udemy.com/course/securityplus/)
 
 # What Do You Use? 
