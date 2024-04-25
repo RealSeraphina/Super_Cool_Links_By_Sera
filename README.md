@@ -332,6 +332,8 @@ Common uses:
 - [For Loops Vs While Loops (in Python)](https://www.youtube.com/watch?v=9AJ0uoxtdCQ)
 - [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
 - [The Problem with Time & Timezones - Computerphile](https://youtu.be/-5wpm-gesOY)
+### One Liners
+- Python Webserver with logging - `python3 -m http.server 80 2>&1 | tee -a access.log` 
 
 # Web and Protocols 🌐
 - [DNS Record Types](https://www.cloudflare.com/learning/dns/dns-records/)
