@@ -305,6 +305,7 @@ Common uses:
 - [The Zen of Python](https://peps.python.org/pep-0020/)
 - [Python Tutorial](https://www.tutorialspoint.com/python/index.htm)
 - [PEP 8 – Style Guide for Python Code | peps.python.org](https://peps.python.org/pep-0008/#whitespace-in-expressions-and-statements)
+- [W3Schools - An excellent resource for Python and other languages!](https://www.w3schools.com/python/default.asp)
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [Why do datatypes even exist?](https://cis.msjc.edu/tutorials/Programming/DataTypes/)
 - [Converting Data Types - I will cast you as a string and you as a float!](https://www.digitalocean.com/community/tutorials/how-to-convert-data-types-in-python-3)
