@@ -321,9 +321,10 @@ Common uses:
 - [Use Python as a graphing calculator with matplotlib](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
 - [Graphics in Python With Turtle](https://docs.python.org/3/library/turtle.html)
 - [Jupyter Notebook: An Introduction – Real Python](https://realpython.com/jupyter-notebook-introduction/#running-cells)
-- [regex101: build, test, and debug regex](https://regex101.com/)
 - [.sort() Vs sorted()](https://medium.com/@DahlitzF/list-sort-vs-sorted-list-aab92c00e17)
 - [Lambda Functions - Almost magical one line functions](https://www.w3schools.com/python/python_lambda.asp)
+- [regex101: build, test, and debug regex](https://regex101.com/)
+- [Regex Golf - practice your Regex skills](https://alf.nu/RegexGolf)
 - [VS Code - Currently my favorite IDE](https://code.visualstudio.com/)
 - [Indent-Rainbow - An extension for VS Code that will highlight indents](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 ### YouTube
