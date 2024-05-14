@@ -361,6 +361,7 @@ Common uses:
 - [Kerberos - What is it and how does it work?](https://www.tarlogic.com/blog/how-kerberos-works/)
 - [Search EventLog With PowerShell](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-eventlog?view=powershell-5.1)
 - [Introduction to Scripting in PowerShell](https://learn.microsoft.com/en-us/training/modules/script-with-powershell/)
+- [Batch Scripting - Tutorials Point](https://www.tutorialspoint.com/batch_script)
 
 # Infamous Hacks / Attacks 🧑‍💻
 - [WannaCry - Who doesn't like ransomware](https://www.cisa.gov/sites/default/files/FactSheets/NCCIC%20ICS_FactSheet_WannaCry_Ransomware_S508C.pdf)
