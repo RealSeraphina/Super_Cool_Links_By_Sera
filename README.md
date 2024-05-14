@@ -358,6 +358,7 @@ Common uses:
 - [Active Directory Administration](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-ds-simplified-administration)
 - [LDAP Vs. Active Directory](https://www.okta.com/identity-101/ldap-vs-active-directory/)
 - [Detecting and Preventing LSASS Credential Dumping](https://www.microsoft.com/en-us/security/blog/2022/10/05/detecting-and-preventing-lsass-credential-dumping-attacks/)
+- [Kerberos - What is it and how does it work?](https://www.tarlogic.com/blog/how-kerberos-works/)
 - [Search EventLog With PowerShell](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-eventlog?view=powershell-5.1)
 - [Introduction to Scripting in PowerShell](https://learn.microsoft.com/en-us/training/modules/script-with-powershell/)
 
