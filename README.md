@@ -367,14 +367,22 @@ Common uses:
 - [WannaCry - Who doesn't like ransomware](https://www.cisa.gov/sites/default/files/FactSheets/NCCIC%20ICS_FactSheet_WannaCry_Ransomware_S508C.pdf)
 - [Stuxnet - Centrifuges in Iraqi Nuclear power plant go Brrrrr... APT.. USA... They both have 3 letters.  ](https://spectrum.ieee.org/the-real-story-of-stuxnet)
 
-
-# Reconnaissance 🔭
+# Red Team 🚩
 - [Computer Fraud and Abuse Act](https://www.justice.gov/jm/jm-9-48000-computer-fraud)
 - [GDPR](https://gdpr.eu/what-is-gdpr/)
 - [See Cyber Attacks in Real Time](https://cybermap.kaspersky.com/)
+  
+Sometimes even when you do everything right you may still end up in jail...
+
+- [Coalfire News Article](https://www.kcci.com/article/coalfire-ceo-lambasts-dallas-county-sheriff-in-scathing-statement/29639404)
+- [Coalfire Tell All - Dark Reading](https://www.darkreading.com/vulnerabilities-threats/pen-testers-who-got-arrested-doing-their-jobs-tell-all)
+- [Coalfire Official Press Release - Charges Dropped](https://coalfire.com/insights/news-and-events/press-releases/charges-dismissed-against-coalfire-employees)
+
+# Reconnaissance 🔭
 - [MITRE ATT&CK Framework - a framework for how attacks and red team activites are carried out](https://attack.mitre.org/)
 - [Lockheed Martin Cyber Kill Chain - a more simplified framework for cyberattacks](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 - [Whois - Online tool](https://whois.domaintools.com)
+- [Nmap Cheat Sheet](stationx.net/nmap-cheat-sheet)
 - [Nmap Xmas Scan - It's the most alarming time of the year!](https://linuxhint.com/nmap_xmas_scan/)
 - [Spiderfoot - A OSINT collection tool](https://github.com/smicallef/spiderfoot)
 - [Shodan - Search exposed devices across the world](https://www.shodan.io/)
