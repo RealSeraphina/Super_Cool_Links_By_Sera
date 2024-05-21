@@ -385,6 +385,7 @@ Sometimes even when you do everything right you may still end up in jail...
 - [Nmap Cheat Sheet](stationx.net/nmap-cheat-sheet)
 - [Nmap Xmas Scan - It's the most alarming time of the year!](https://linuxhint.com/nmap_xmas_scan/)
 - [Spiderfoot - A OSINT collection tool](https://github.com/smicallef/spiderfoot)
+- [OSINT Framework - A collection of OSINT resources](https://osintframework.com/)
 - [Shodan - Search exposed devices across the world](https://www.shodan.io/)
 - [Nessus - A vaulneribility scanning suite](https://www.tenable.com/products/nessus)
 - [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
