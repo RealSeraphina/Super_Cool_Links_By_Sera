@@ -453,11 +453,15 @@ Sometimes even when you do everything right you may still end up in jail...
 - [Bluetooth Vaulneribility BlueBorne](https://www.armis.com/research/blueborne/)
 - [Bluetooth - The Fixed Coordinate Invalid Curve Attack](https://eprint.iacr.org/2019/1043.pdf)
 
-# SIEMs (Splunk)
+# SIEMs
 - [Intro to Splunk](https://www.youtube.com/watch?v=mSQPYRihajw)
 - [Splunk Basic Searching](https://www.tutorialspoint.com/splunk/splunk_basic_searching.htm)
 - [Splunk Documentation](https://docs.splunk.com/Documentation/ES)
-- [WAZUH - A free SIEM!](https://wazuh.com/)
+- [SPLUNK](https://www.splunk.com/)
+- [Alien Vault (competetior SIEM owned by AT&T)](https://cybersecurity.att.com/products/ossim)
+- [ELK Stack (Free SIEM)](https://www.elastic.co/platform)
+- [Wazuh (Free Sera's prefered free SIEM)](https://wazuh.com/)
+- [Pokemon Dataset - A fun dataset to practice and test your SIEM with!](https://www.kaggle.com/datasets/rounakbanik/pokemon)
 
 # Forensics 🔍
 ### Useful Software
