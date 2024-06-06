@@ -46,7 +46,7 @@ Understand what the following are:
 	
 Be familiar with various threat actors including the following:
 	- [APT](https://www.crowdstrike.com/cybersecurity-101/advanced-persistent-threat-apt/) 
-	- [Script Kitty](https://www.hypr.com/security-encyclopedia/script-kiddie) 
+	- [Script Kiddie](https://www.hypr.com/security-encyclopedia/script-kiddie) 
 	- [Hacktivist](https://www.uscybersecurity.net/hacktivist/) 
 
 Know what major regulatory bodies govern (you do not need to know every detail about the regulations):
