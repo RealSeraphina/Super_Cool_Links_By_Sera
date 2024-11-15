@@ -251,6 +251,9 @@ Common uses:
 - [Break Your Terminal with a Fork Bomb DOS Attack!](https://www.cyberciti.biz/faq/understanding-bash-fork-bomb/)
 - [Shell Check - Helps figure out what's wrong with your script!](https://www.shellcheck.net/)
 
+# Incident Report Writing 📄
+- [A guide and template for incident reports - Hack The Box](https://www.hackthebox.com/blog/writing-incident-response-report-template) 
+
 # Networking
 - [Smart Draw - Create Network Diagrams](https://www.smartdraw.com/)
 - [OSI Model Explained!](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
@@ -508,6 +511,9 @@ Sometimes even when you do everything right you may still end up in jail...
 - [Security Controls](https://www.f5.com/labs/learning-center/what-are-security-controls)
 - [Security Controls - Big Blue's (IBM) Definitions](https://www.ibm.com/topics/security-controls)
 - [Writing Snort Rules](https://resources.infosecinstitute.com/topics/penetration-testing/snort-rules-workshop-part-one/)
+
+# NIST - Respond
+- [Incident Response Playbooks](https://www.incidentresponse.com/mini-sites/playbooks/)
 
 # NIST - Recover
 - [Blameless PostMortems and a Just Culture](https://www.etsy.com/codeascraft/blameless-postmortems/)
