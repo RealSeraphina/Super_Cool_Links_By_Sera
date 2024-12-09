@@ -191,7 +191,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [ZIP - In depth](https://docs.fileformat.com/compression/zip/)
 
 # Linux Permissions
-- [☠️As of 01/17/2023 this link is dead. Will check again☠️Chmod Calculator | Chmod Generator | Chmod Command](https://chmodcommand.com/)
+- [Chmod Calculator | Chmod Generator | Chmod Command](https://chmodcommand.com/)
 - [Chmod Calculator | OMNI Calculator - Advanced Mode has special permissions](https://www.omnicalculator.com/other/chmod)
 - [Linux File Permissions Cheat Sheet](https://www.psychz.net/client/kb/en/linux-file-permissions-cheat-sheet.html)
 - [Unix File Permissions](https://kapeli.com/cheat_sheets/Unix_File_Permissions.docset/Contents/Resources/Documents/index)
@@ -280,7 +280,7 @@ Common uses:
 - [Decrypt HTTPS Traffic](https://unit42.paloaltonetworks.com/wireshark-tutorial-decrypting-https-traffic/)
   ![1698398221297](https://github.com/RealSeraphina/Super_Cool_Links_By_Sera/assets/29414918/b753053a-6688-4ff3-bb18-f39fb6d11df8)
 
-# Firwalls and Defense In Depth 🔥🧱
+# Firewalls and Defense In Depth 🔥🧱
 - [What is a Port?](https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/)
 - [Uncomplicated Firewall (UFW) - It's a Firewall that Uncomplicated...](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)
 - [UFW Official Documentation](https://help.ubuntu.com/community/UFW)
