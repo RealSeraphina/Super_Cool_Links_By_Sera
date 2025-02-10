@@ -31,6 +31,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [XKCD - A webcomic of romance, sarcasm, math, and language.](https://xkcd.com/)
 - [XKCD - But With a CLI interface!](https://uni.xkcd.com/)
 - [SANS NewsBites - Hot Off The Press! Get you Security News!](https://www.sans.org/newsletters/newsbites/)
+- [Krebs on Security - Thid dude always has good articles to dig into!](https://krebsonsecurity.com/)
 - [Slashdot - News for nerds, stuff that matters](https://slashdot.org/)
 - [Hackaday - Fresh Hacks Every Day from around the Internet.](https://hackaday.com/)
 - [Darknet Diaries – True stories from the dark side of the Internet.](https://darknetdiaries.com)
