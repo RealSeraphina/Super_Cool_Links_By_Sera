@@ -151,6 +151,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Container Vs VM](https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/containers-vs-vm)
 
 # Linux 🐧
+- [Ubuntu Shell - A bunch of really useful runbooks for accomplishing various tasks in Linux (Ubuntu)](https://ubuntushell.com/)
 - [Linux File Sytem Structure](https://www.makeuseof.com/linux-directory-structure-explained/)
 - [Shell Vs. Terminal Vs. Console](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line) 
 - [The 50 Most Popular Linux &amp; Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
