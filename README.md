@@ -14,6 +14,7 @@ A collection of awesome links I've compiled. please report any link rot, typoes,
 - [Security Now - Probably my favorite security podcast!](https://www.grc.com/securitynow.htm)
 - [The DIFR Report - Breakdowns of real world attacks](https://thedfirreport.com/)
 - [SANS Stormcast - a good podcast produced by SANS](https://isc.sans.edu/podcastdetail)
+- [Foorilla - brings together a bunch of sources](https://foorilla.com/media/)
 
 ### Youtube
 - [HACKING GOOGLE Series](https://www.youtube.com/watch?v=5nEyjYn9_LI&list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
