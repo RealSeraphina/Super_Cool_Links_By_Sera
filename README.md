@@ -2,6 +2,19 @@
 A collection of awesome links I've compiled. please report any link rot, typoes, etc. Thanks!
 
 # Take a Break (Sort Of)
+### CyberNews
+- [DDOSECRETS - It's a bit leaky here...](https://ddosecrets.org/)
+- [Bleeping Computer - I think the name says it all](https://www.bleepingcomputer.com/)
+- [Ycombinator Security News](https://news.ycombinator.com/)
+- [Slashdot](https://slashdot.org/)
+- [The Hacker News - It's news... for hackers](https://thehackernews.com/)
+- [Sans News Bites - Sans provides security certs and a good way to keep up with news](https://www.sans.org/newsletters/newsbites)
+- [Defensive Security - A Blue Team focused podcast](https://defensivesecurity.org/)
+- [Risky Biz - Security podcast and newsletter](https://risky.biz/)
+- [Security Now - Probably my favorite security podcast!](https://www.grc.com/securitynow.htm)
+- [The DIFR Report - Breakdowns of real world attacks](https://thedfirreport.com/)
+- [SANS Stormcast - a good podcast produced by SANS](https://isc.sans.edu/podcastdetail)
+
 ### Youtube
 - [HACKING GOOGLE Series](https://www.youtube.com/watch?v=5nEyjYn9_LI&list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
 - [Jim Browning - Getting Back At Scammers](https://www.youtube.com/c/JimBrowning)
